@@ -1,12 +1,11 @@
-## Nyheter
+## MellansvänskaElbilskuppen
 
-### Alternativ hemsida
-Detta är ett försök att förenkla informationspridning för Mellansvenska Elbilscupen. Genom möjlighet att editera denna hemsida direkt i en Webläsare kan alla som vill vara delaktiga vara med och uppdatera, ändra och lägga till information.
-Sidan är baserad på Jekyll, en statisk hemsida som består av primärt [Markdown](https://www.markdownguide.org/cheat-sheet) filer.
-
-
-
-## Tävlingar
+### Nyheter
+Här har du de senaste nyheterna om kuppen med om någonting är intälld etc.
+### Tävlingar
+Här skriver du vilka klubbar är med och var dem ligger.
+### Historia
+Skriv lite historia om Mellansvänska
 ### 2019-12-07 Miracl (race 3)
 Vi återvänder till Åtvidaberg för ett sista race på [IRC Arena](https://www.facebook.com/ircarena). Hoppas många kan komma och ta del av denna fantastiska anlägning som Åke och Eva har skapat.
 - [Inbjudan](https://idrottonline.se/MRCLinkoping-Bilsport)
