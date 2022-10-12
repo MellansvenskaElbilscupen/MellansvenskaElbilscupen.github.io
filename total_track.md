@@ -2,7 +2,7 @@
 
 | Ranking | Namn                | Klubb                     |  #1 |  #2 |  #3 |  #4 |  #5 | Final | Tot |
 | ------- | ------------------- | ------------------------- | --- | --- | --- | --- | --- | ----- | --- |
-| 1       | Alexander Andersson | Miracl                    | 52  |     |     |     |     |       | 52  |
+| 1       | Alexander Andersson | Miracl                    | 52* |     |     |     |     |       | 52  |
 | 2       | Markus Andreasson   | MHF Skarpnäck             | 48  |     |     |     |     |       | 48  |
 | 3       | Magnus Hedlund      | Västerås MS               | 46  |     |     |     |     |       | 46  |
 | 4       | Mickael Brandt      | UppsalaRC                 | 44  |     |     |     |     |       | 44  |
