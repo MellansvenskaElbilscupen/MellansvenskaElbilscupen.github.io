@@ -33,7 +33,7 @@
 * Resultat: ----
 
 ### #5 - Lidköping
-* Datum: 2023-02-xy
+* Datum: 2023-02-26
 * Anmälan: [MyRCM](https://www.myrcm.ch)
 * Inbjudan: ----
 * Info: [Klubbens hemsida](https://www.lrck.se/)

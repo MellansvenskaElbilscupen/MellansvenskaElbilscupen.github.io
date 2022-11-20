@@ -10,6 +10,10 @@ _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en sup
 
 ## Senaste nytt
 
+__22-11-20:__ Vi vill tacka Bofors MRK för en välkänd bansträckning och ett strålande arrangemang i Karlskoga. Cupställningen är nu uppdaterad och resultaten för denna tävling hitta ni på [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=bofors&dId[E]=66903&hId[1]=search).
+
+__22-11-20:__ Den 26 Februari 2023 kör vi deltävling #5 i Lidköping. _Notera att detta är en Söndag_.
+
 __22-11-01:__ För er som ännu inte anmält er till deltävling [#2](races_22-23.md) i Karlskoga kan göra det [här](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=bofors&dId[E]=66903&hId[1]=search)
 
 __22-10-25:__ Den 21 Januari 2023 kör vi deltävling #4 hos Västerort RC i Stockholm.
@@ -19,8 +23,6 @@ __22-10-16__ [FWD-Sweden](https://houseofrc.com/organizations/1641) har nu släp
 * Uppdaterad karosslista
 
 _[Här](https://houseofrc.com/resources/2372?resourceable_type=organization&resourceable_id=1641) finns mer information om ändringarna_
-
-__22-10-10:__ Inbjudan till deltävling [#2](races_22-23.md) i Karlskoga är upplagd
 
 ## Cupställning
 * [FWD](total_fwd.md)
@@ -32,7 +34,7 @@ __22-10-10:__ Inbjudan till deltävling [#2](races_22-23.md) i Karlskoga är upp
 * [2022-11-19 Bofors MRK](races_22-23.md)
 * [2022-12-10 Falun](races_22-23.md)
 * [2023-01-21 Västerort](races_22-23.md)
-* [2023-02-xy Lidköping](races_22-23.md)
+* [2023-02-26 Lidköping](races_22-23.md)
 * [2023-03-xy Final (Ej beslutat)](races_22-23.md)
 
 ## Inbjudan & Regler
@@ -43,6 +45,8 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 [Länk till mer information om cupen](about.md)
 
 ## Gamla nyheter
+
+__22-10-10:__ Inbjudan till deltävling [#2](races_22-23.md) i Karlskoga är upplagd
 
 __22-10-09:__ Resultat från första racet i Karlstad är upplaggda
 
