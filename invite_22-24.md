@@ -8,7 +8,7 @@ ________________________________________________________________________________
 Förare skall ha giltig N, D-licens, eller U-intyg.
 
 #### Anmälningsavgift:
-Samtliga klasser 270:-. Efteranmälan kan ske i mån av plats + 50:- <br>
+Samtliga klasser 320:-. Efteranmälan kan ske i mån av plats + 50:- <br>
 (_20:- av anmälningsavgften går till cup-admin samt slutpriser_)
 
 #### Anmälan:
