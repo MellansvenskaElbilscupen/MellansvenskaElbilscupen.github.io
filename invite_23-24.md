@@ -187,7 +187,7 @@ ________________________________________________________________________________
 **Batterier:** 1 cell LiPo 3,7/3,8V (Hardcase) (se allmän kommentar om [Batterier](#batterier--motorer))
 
 **Däck:**
-* Frm: ULTI XM (ULT12F-6-XM) med MSECs märkning
+* Fram: ULTI XM (ULT12F-6-XM) med MSECs märkning
 * Bak: ULTI XM (ULT12R-6-XM) med MSECs märkning.
 Däck kan köpas färdigmärkta men man kan även få däck som man själv köpt uppmärkta på tävlingarna förutsatt att de är i en oöppnad förpackning.
 
