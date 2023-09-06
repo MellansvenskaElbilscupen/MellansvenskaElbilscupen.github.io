@@ -128,8 +128,7 @@ ESC skall använda programvara __.V1_17k5_NoTIMING__ (Original 17500 RPM begrän
 **Vinge:** Originalvinge skall användas, alltså vingen som följer med karossen. Vinge skall vara monterad enligt tillverkarens intention.
 
 **Däck:**
-* Hudy Slick Tires for FWD (803040)
-* Ride 1:10 Belted Tires 24mm Pre-glued with 10 Spoke Wheel - Grey (4) (RI-26073)<br>
+* U-1041 4560175160412 RUSH TIRE RADIAL, 32X, Seven spoke 035BK Type Black, PREGLUEDTIRE (4PCS), Marked: FWD-SE
 
 Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie besiktningstid. _Ingen märkning av däck från handlare behövs_
 
@@ -186,6 +185,11 @@ ________________________________________________________________________________
 **Fartreglage:** Valfritt reglage med 0-timing, s.k. ”Blinky”
 
 **Batterier:** 1 cell LiPo 3,7/3,8V (Hardcase) (se allmän kommentar om [Batterier](#batterier--motorer))
+
+**Däck:**
+* Frm: ULTI XM (ULT12F-6-XM) med MSECs märkning
+* Bak: ULTI XM (ULT12R-6-XM) med MSECs märkning.
+Däck kan köpas färdigmärkta men man kan även få däck som man själv köpt uppmärkta på tävlingarna förutsatt att de är i en oöppnad förpackning.
 
 **Vikt:** Minimum 730g inkl. transponder
 
