@@ -9,6 +9,10 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__23-09-06:__ Då kan vi äntligen presentera startdatum för säsongen 2023-2024. Första tävlingen går i Karlstad den 21:a oktober. Det kommer totalt bli 6 deltävlingar (en per månad oktober-mars) men övriga datum är inte riktigt klara ännu då klubbarna väntar på att få halltider.
+I Touring Stock 13,5T kommer vi forsötta med Hudy däcket (Hudy Touring 1/10 Carpet C3-28 - 803053) även denna säsong. För FWD har vi valt det Rush däck som testas fram avd FWD-Sweden RU-1041 4560175160412 RUSH TIRE RADIAL, 32X, Seven spoke 035BK Type Black, PREGLUEDTIRE (4PCS), Marked: FWD-SE
+Vi hoppas kunna presentera övriga datum snart samt uppdaterade regler (däck ändringarna) och inbjudan för denna säsong.
+
 
 __23-08-16:__ För säsongen 2023-2024 har vi nu fått klart att vi kommer köra enhetsdäck I 1:12 klassen. Vi kommer köra ULTI XM fram och bak där vi kommer ha en märkning för MSEC i fälgen. Däcken kommer gå att köpa på tävlingarna och vi kommer med information senare om hur man kan beställa märkta däck för att ha dem innan racen. Man kan också komma med oöppnade påsar av ULTI XM som man köpt på andra håll och få dem märkta på tävlingarna. Det förutsätter då att påsen är oöppnad. 
 Alternativet till märkning var att beställa däck med rand i. Vi beslutade att inte göra det nu då däcken skulle bli dyrare och vi inte kommer upp i så stora volymer av däck med det underlag av förare vi har just nu. Förhoppningen är så klart att klassen ska växa när det blir enklare med däcken.
@@ -16,8 +20,6 @@ Alternativet till märkning var att beställa däck med rand i. Vi beslutade att
 __23-03-21:__ Tack till alla som kom och racade på finalen i Eskilstuna. Stort tack till MKEskil får ett toppen event med bra flow i banan. Totalen i cupen hittar ni här: [FWD](total_fwd.md), [Touring 13,5T](total_touring.md), [1:12 Track](total_track.md)
 
 __23-03-02:__ Det saknades regler för GT12 i inbjudan. Dessa finns nu [här](./files/PM1_MSEC_2023-03-19.pdf). Tanken är att "vanliga" 1/12:or och de brittiska GT12 är godkända, men med 1 cell och 21.5T motor.
-
-__23-03-02:__ Nu är det dags för final !! Den körs i Torsharg Hallen, Torshälla, den 19 Mars. Inbjudan från MK Eskil hittar ni [här](./files/MK_Eskil_inbjudan_finalen_MSEC_2023-03-19.pdf). Anmälan sker i vanlig ordning på [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=msec&dId[E]=69366&hId[1]=search).
 
 ## Cupställning
 * [FWD](total_fwd.md)
@@ -40,6 +42,8 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 [Länk till mer information om cupen](about.md)
 
 ## Gamla nyheter
+__23-03-02:__ Nu är det dags för final !! Den körs i Torsharg Hallen, Torshälla, den 19 Mars. Inbjudan från MK Eskil hittar ni [här](./files/MK_Eskil_inbjudan_finalen_MSEC_2023-03-19.pdf). Anmälan sker i vanlig ordning på [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=msec&dId[E]=69366&hId[1]=search).
+
 __23-02-21:__ Karlstad har meddelat att det är för få anmälda för att kunna köra tävlingen på lördag den 25e februari. Vi ses på finalen i Eskilstuna.
 
 __23-02-06:__ Tyvärr måste vi meddela att Lidköping har blivit av med hallen för sin deltävling den 26e februari. Det har inte gått att lösa med ny hall men hoppas vi får med Lidköping nästa år igen. För att vi fortfarande ska ha 6 deltävlingar så är vi glada att meddela att MSEC #5 kommer köras i Karlstad. Datumet ändras till lördagen den 25e februari. Vi ses i Karlstad!
