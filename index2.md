@@ -41,7 +41,7 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 ## Om Cupen
 [Länk till mer information om cupen](about.md)
 
-## Tidigare cupställningar
+## Tidigare års cupresultat
 __2022-2023__
 * [FWD](total_fwd.md)
 * [Touring Stock 13,5T](total_touring.md)
