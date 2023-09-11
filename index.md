@@ -32,7 +32,7 @@ __23-03-02:__ Det saknades regler för GT12 i inbjudan. Dessa finns nu [här](./
 * [2022-10-21 Karlstad](races_23-24.md#1---karlstad)
 * [2022-11-18 Bofors?](races_23-24.md)
 * [2022-12-?](races_23-24.md)
-* [2023-01-20 Falun?)](races_23-24.md)
+* [2023-01-20 Falun](races_23-24.md)
 * [2023-02-?)](races_23-24.md)
 * [2023-03-? (Final)](races_23-24.md)
 
