@@ -31,12 +31,12 @@ __23-03-02:__ Det saknades regler för GT12 i inbjudan. Dessa finns nu [här](./
 * [1:12 Track 13,5T](total_track_23-24.md)
 
 ## Tävlingar
-* [2022-10-21 Karlstad](races_23-24.md#1---karlstad)
-* [2022-11-18 Bofors](races_23-24.md)
-* [2022-12-02 Eskilstuna](races_23-24.md)
-* [2023-01-20 Falun](races_23-24.md)
-* [2023-02-?)](races_23-24.md)
-* [2023-03-? (Final)](races_23-24.md)
+* [2023-10-21 Karlstad](races_23-24.md#1---karlstad)
+* [2023-11-18 Bofors](races_23-24.md)
+* [2023-12-02 Eskilstuna](races_23-24.md)
+* [2024-01-20 Falun](races_23-24.md)
+* [2024-02-?)](races_23-24.md)
+* [2024-03-? (Final)](races_23-24.md)
 
 ## Inbjudan & Regler
 Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br>
