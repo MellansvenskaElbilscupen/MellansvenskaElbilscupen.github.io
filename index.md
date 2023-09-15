@@ -9,6 +9,8 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__23-09-15:__ Den tredje deltävlingen kommer gå hos MK Eskil den 2:a december.
+
 __23-09-11:__ Nu har vi fått klart med två till datum. 18:e november blir det tvävling i Bofors och 20:e januari i Falun.
 
 __23-09-06:__ Då kan vi äntligen presentera startdatum för säsongen 2023-2024. Första tävlingen går i Karlstad den 21:a oktober. Det kommer totalt bli 6 deltävlingar (en per månad oktober-mars) men övriga datum är inte riktigt klara ännu då klubbarna väntar på att få halltider.
@@ -31,7 +33,7 @@ __23-03-02:__ Det saknades regler för GT12 i inbjudan. Dessa finns nu [här](./
 ## Tävlingar
 * [2022-10-21 Karlstad](races_23-24.md#1---karlstad)
 * [2022-11-18 Bofors](races_23-24.md)
-* [2022-12-?](races_23-24.md)
+* [2022-12-02 Eskilstuna](races_23-24.md)
 * [2023-01-20 Falun](races_23-24.md)
 * [2023-02-?)](races_23-24.md)
 * [2023-03-? (Final)](races_23-24.md)
