@@ -128,7 +128,7 @@ ESC skall använda programvara __.V1_17k5_NoTIMING__ (Original 17500 RPM begrän
 **Vinge:** Originalvinge skall användas, alltså vingen som följer med karossen. Vinge skall vara monterad enligt tillverkarens intention.
 
 **Däck:**
-* U-1041 4560175160412 RUSH TIRE RADIAL, 32X, Seven spoke 035BK Type Black, PREGLUEDTIRE (4PCS), Marked: FWD-SE
+* U-1041 4560175160412 RUSH TIRE RADIAL, 32X, Seven spoke 035BK Type Black, PREGLUEDTIRE (4PCS)
 
 Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie besiktningstid. _Ingen märkning av däck från handlare behövs_
 
