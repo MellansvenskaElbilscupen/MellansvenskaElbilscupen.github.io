@@ -9,6 +9,8 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__23-09-20:__ FWD däcken har börjat komma hem till handlarna nu och kommer gp att hndla hos Kullagergrossisten och Letera. Det har visat sig att döcken inte är märkta med FWD-SWEDEN. Reglerna har blivit uppdaterade så det inte är krav på en FWD-SWEDEN märkning.
+
 __23-09-15:__ Den tredje deltävlingen kommer gå hos MK Eskil den 2:a december.
 
 __23-09-11:__ Nu har vi fått klart med två till datum. 18:e november blir det tvävling i Bofors och 20:e januari i Falun.
@@ -22,8 +24,6 @@ __23-08-16:__ För säsongen 2023-2024 har vi nu fått klart att vi kommer köra
 Alternativet till märkning var att beställa däck med rand i. Vi beslutade att inte göra det nu då däcken skulle bli dyrare och vi inte kommer upp i så stora volymer av däck med det underlag av förare vi har just nu. Förhoppningen är så klart att klassen ska växa när det blir enklare med däcken.
 
 __23-03-21:__ Tack till alla som kom och racade på finalen i Eskilstuna. Stort tack till MKEskil får ett toppen event med bra flow i banan. Totalen i cupen hittar ni här: [FWD](total_fwd.md), [Touring 13,5T](total_touring.md), [1:12 Track](total_track.md)
-
-__23-03-02:__ Det saknades regler för GT12 i inbjudan. Dessa finns nu [här](./files/PM1_MSEC_2023-03-19.pdf). Tanken är att "vanliga" 1/12:or och de brittiska GT12 är godkända, men med 1 cell och 21.5T motor.
 
 ## Cupställning
 * [FWD](total_fwd_23-24.md)
@@ -52,6 +52,8 @@ __2022-2023__
 * [1:12 Track 13,5T](total_track.md)
 
 ## Gamla nyheter
+__23-03-02:__ Det saknades regler för GT12 i inbjudan. Dessa finns nu [här](./files/PM1_MSEC_2023-03-19.pdf). Tanken är att "vanliga" 1/12:or och de brittiska GT12 är godkända, men med 1 cell och 21.5T motor.
+
 __23-03-02:__ Nu är det dags för final !! Den körs i Torsharg Hallen, Torshälla, den 19 Mars. Inbjudan från MK Eskil hittar ni [här](./files/MK_Eskil_inbjudan_finalen_MSEC_2023-03-19.pdf). Anmälan sker i vanlig ordning på [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=msec&dId[E]=69366&hId[1]=search).
 
 __23-02-21:__ Karlstad har meddelat att det är för få anmälda för att kunna köra tävlingen på lördag den 25e februari. Vi ses på finalen i Eskilstuna.
