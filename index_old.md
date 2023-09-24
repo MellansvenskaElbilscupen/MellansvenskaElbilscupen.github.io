@@ -44,7 +44,7 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 ## Gamla nyheter
 __23-09-24:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som sätt till att vi fått ett riktigt bra pris.
 
-ULTI XM däcken kommer i påsar med tre par.Priset för en påse fram och en påse bak (3 omgångar) är 500 SEK (230 SEK för fram och 270 SEK för bak).
+ULTI XM däcken kommer i påsar med tre par.Priset för en påse fram och en påse bak (3 omgångar) är __500 SEK__ (230 SEK för fram och 270 SEK för bak).
 För att beställa däcken skickar man ett mail till msec@advanced-electronics.se med sina kontaktuppgifter och hur många påsar man vill ha. Man behöver också ange om man vill ha däcken skickade hem eller få dem på nästa race. Vill man ha däcken skickade tillkommer en fraktavgift som man får reda på i den faktura man kommer få tillbaka på mailen.
 
 Däcken kommer kunna betalas med SWISH eller Bankgiro enligt fakturan. Däcken skickas först när betalning är gjord.
