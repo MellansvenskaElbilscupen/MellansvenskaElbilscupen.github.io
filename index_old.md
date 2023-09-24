@@ -42,7 +42,7 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 [Länk till mer information om cupen](about.md)
 
 ## Gamla nyheter
-__23-09-24:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som sätt till att vi fått ett riktigt bra pris.
+__23-09-24:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som sett till att vi fått ett riktigt bra pris.
 
 ULTI XM däcken kommer i påsar med tre par. Priset för en påse fram och en påse bak (3 omgångar) är __500 SEK__ (230 SEK för fram och 270 SEK för bak).
 
