@@ -187,8 +187,8 @@ ________________________________________________________________________________
 **Batterier:** 1 cell LiPo 3,7/3,8V (Hardcase) (se allmän kommentar om [Batterier](#batterier--motorer))
 
 **Däck:**
-* Fram: ULTI XM (ULT12F-6-XM) med MSECs märkning
-* Bak: ULTI XM (ULT12R-6-XM) med MSECs märkning.
+* Fram: ULTI XM (ULT12F-6-XM) med MSECs märkning på fälgen (röd etikett med texten ”VOID”).
+* Bak: ULTI XM (ULT12R-6-XM) med MSECs märkning på fäjgen (röd etikett med texten ”VOID”).
 Däck kan köpas färdigmärkta men man kan även få däck som man själv köpt uppmärkta på tävlingarna förutsatt att de är i en oöppnad förpackning.
 
 **Vikt:** Minimum 730g inkl. transponder
