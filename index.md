@@ -9,6 +9,21 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__23-09-24:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som subventionerar däcken så att vi fått ett riktigt bra pris.
+
+ULTI XM däcken kommer i påsar med tre par. Priset för en påse fram och en påse bak (3 omgångar) är 500 SEK (238 SEK för fram och 262 SEK för bak).
+
+* __500 SEK__ - (3 omgångar fram och bak)
+* __262 SEK__ - (3 omgångar bak)
+* __238 SEK__ - (3 omgångar fram)
+
+För att beställa däcken skickar man ett mail till msec@advanced-electronics.se med sina kontaktuppgifter och hur många påsar man vill ha. Man behöver också ange om man vill ha däcken skickade hem eller få dem på nästa race. Vill man ha däcken skickade tillkommer en fraktavgift som man får reda på i den faktura man kommer få tillbaka på mailen.
+
+Däcken kommer kunna betalas med SWISH eller Bankgiro enligt fakturan. Däcken skickas först när betalning är gjord.
+Det kommer också finnas däck att köpa på racen men för att vara säker på att det inte tar slut bör man göra en beställning innan racet och meddela att däcken hämtas på ”Karlstad” racet som exempel.
+
+Vi hoppas att införandet av enhetsdäck ska förenkla så vi kan få 1:12 klassen att växa. 
+
 __23-09-20:__ FWD däcken har börjat komma hem till handlarna nu och kommer gp att hndla hos Kullagergrossisten och Letera. Det har visat sig att döcken inte är märkta med FWD-SWEDEN. Reglerna har blivit uppdaterade så det inte är krav på en FWD-SWEDEN märkning.
 
 __23-09-15:__ Den tredje deltävlingen kommer gå hos MK Eskil den 2:a december.
