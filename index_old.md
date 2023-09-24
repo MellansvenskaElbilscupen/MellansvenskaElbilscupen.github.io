@@ -42,6 +42,15 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 [Länk till mer information om cupen](about.md)
 
 ## Gamla nyheter
+__23-03-02:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som sätt till att vi fått ett riktigt bra pris.
+ULTI XM däcken kommer i påsar med tre par. Priset för en påse fram och en påse bak (3 omgångar) är 500 SEK (230 SEK för fram och 270 SEK för bak).
+För att beställa däcken skickar man ett mail till msec@advanced-electronics.se med sina kontaktuppgifter och hur många påsar man vill ha. Man behöver också ange om man vill ha däcken skickade hem eller få dem på nästa race. Vill man ha däcken skickade tillkommer en fraktavgift som man får reda på i den faktura man kommer få tillbaka på mailen.
+Däcken kommer kunna betalas med SWISH eller Bankgiro enligt fakturan. Däcken skickas först när betalning är gjord.
+Det kommer också finnas däck att köpa på racen men för att vara säker på att det inte tar slut bör man göra en beställning innan racet och meddela att däcken hämtas på ”Karlstad” racet som exempel.
+Har man köpt påsar med däck på annat håll kommer man på racen kunna få byta oöppnade påsar mot påsar med märkta däck för MSEC.
+Vi hoppas att införandet av enhetsdäck ska förenkla så vi kan få 1:12 klassen att växa. Vi kommer komma ut med tips under säsongen och inför racen vilken storlek vi kör på däcken och hur vi soppar dem. Har man ingen egen svarv kommer man kunna få hjälp med svarvning på racen.
+
+
 __23-03-02:__ Nu är det dags för final !! Den körs i Torsharg Hallen, Torshälla, den 19 Mars. Inbjudan från MK Eskil hittar ni [här](./files/MK_Eskil_inbjudan_finalen_MSEC_2023-03-19.pdf). Anmälan sker i vanlig ordning på [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=msec&dId[E]=69366&hId[1]=search).
 
 __23-02-21:__ Karlstad har meddelat att det är för få anmälda för att kunna köra tävlingen på lördag den 25e februari. Vi ses på finalen i Eskilstuna.
