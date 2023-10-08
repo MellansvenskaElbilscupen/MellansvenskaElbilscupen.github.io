@@ -9,6 +9,10 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__23-10-08:__ Uppdaterad länk för anmälan till Karlstad 23-10-21 ([anmälan](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=karlstad&dId[E]=74048&hId[1]=com))
+
+__23-10-08:__ Fixade den nya karosslistan för FWD. [länk](./files/karosser2.pdf)
+
 __23-09-24:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som subventionerar däcken så att vi fått ett riktigt bra pris.
 
 ULTI XM däcken kommer i påsar med tre par. Priset för en påse fram och en påse bak (3 omgångar) är 500 SEK (238 SEK för fram och 262 SEK för bak).
@@ -22,7 +26,7 @@ För att beställa däcken skickar man ett mail till msec@advanced-electronics.s
 Däcken kommer kunna betalas med SWISH eller Bankgiro enligt fakturan. Däcken skickas först när betalning är gjord.
 Det kommer också finnas däck att köpa på racen men för att vara säker på att det inte tar slut bör man göra en beställning innan racet och meddela att däcken hämtas på ”Karlstad” racet som exempel.
 
-Vi hoppas att införandet av enhetsdäck ska förenkla så vi kan få 1:12 klassen att växa. 
+Vi hoppas att införandet av enhetsdäck ska förenkla så vi kan få 1:12 klassen att växa.
 
 __23-09-20:__ FWD däcken har börjat komma hem till handlarna nu och kommer gp att hndla hos Kullagergrossisten och Letera. Det har visat sig att döcken inte är märkta med FWD-SWEDEN. Reglerna har blivit uppdaterade så det inte är krav på en FWD-SWEDEN märkning.
 
@@ -35,7 +39,7 @@ I Touring Stock 13,5T kommer vi forsötta med Hudy däcket (Hudy Touring 1/10 Ca
 Vi hoppas kunna presentera övriga datum snart samt uppdaterade regler (däck ändringarna) och inbjudan för denna säsong.
 
 
-__23-08-16:__ För säsongen 2023-2024 har vi nu fått klart att vi kommer köra enhetsdäck I 1:12 klassen. Vi kommer köra ULTI XM fram och bak där vi kommer ha en märkning för MSEC i fälgen. Däcken kommer gå att köpa på tävlingarna och vi kommer med information senare om hur man kan beställa märkta däck för att ha dem innan racen. Man kan också komma med oöppnade påsar av ULTI XM som man köpt på andra håll och få dem märkta på tävlingarna. Det förutsätter då att påsen är oöppnad. 
+__23-08-16:__ För säsongen 2023-2024 har vi nu fått klart att vi kommer köra enhetsdäck I 1:12 klassen. Vi kommer köra ULTI XM fram och bak där vi kommer ha en märkning för MSEC i fälgen. Däcken kommer gå att köpa på tävlingarna och vi kommer med information senare om hur man kan beställa märkta däck för att ha dem innan racen. Man kan också komma med oöppnade påsar av ULTI XM som man köpt på andra håll och få dem märkta på tävlingarna. Det förutsätter då att påsen är oöppnad.
 Alternativet till märkning var att beställa däck med rand i. Vi beslutade att inte göra det nu då däcken skulle bli dyrare och vi inte kommer upp i så stora volymer av däck med det underlag av förare vi har just nu. Förhoppningen är så klart att klassen ska växa när det blir enklare med däcken.
 
 __23-03-21:__ Tack till alla som kom och racade på finalen i Eskilstuna. Stort tack till MKEskil får ett toppen event med bra flow i banan. Totalen i cupen hittar ni här: [FWD](total_fwd.md), [Touring 13,5T](total_touring.md), [1:12 Track](total_track.md)

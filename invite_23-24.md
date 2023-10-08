@@ -138,7 +138,7 @@ Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie
 * __Minimivikt:__ 1200g (körklar inklusive transponder)
 
 **Karosser:**
-Se separat [karosslista](./files/karosser.pdf)
+Se separat [karosslista](./files/karosser2.pdf)
 
 **Förare:**
 Förare med D licens och U-intyg får använda bilar/elektronik som inte ger teknisk fördel jämfört med reglementet. Detta avgörs av besiktningen vid vardera tävling.
