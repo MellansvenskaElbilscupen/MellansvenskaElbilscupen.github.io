@@ -85,6 +85,8 @@ Poängberäkning för finalen:
 
 Totalcupen beräknas med tre bästa delatävlingarna + final.
 
+_För att en deltävling skall räknas med i totalcupen för en viss klass, skall minst fyra förare ha deltagit i tävlingen och kört den klassen._
+
 _Vid lika resultat efter finaltävling gäller bäst resultat i finalen._
 
 ________________________________________________________________________________
