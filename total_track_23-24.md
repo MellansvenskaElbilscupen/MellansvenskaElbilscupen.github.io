@@ -1,7 +1,7 @@
 # 1:12 Track 13,5T 2023-2024
 | Ranking | Namn                | Klubb                    |  #1  |  #2 |  #3 |  #4 |  #5 | Final | Tot |
 | ------- | ------------------- | ------------------------ | ---- | --- | --- | --- | --- | ----- | --- |
-| 1       | Markus Andreasson   | MHF Skarpnäck            | 52\* |     |     |     |     |       | 52  |
+| 1       | Markus Andreasson   | MHF Skarpnäck            | 52*  |     |     |     |     |       | 52  |
 | 2       | Magnus Hedlund      | Västerås MS              | 48   |     |     |     |     |       | 48  |
 | 3       | Alexander Andersson | Miracl                   | 46   |     |     |     |     |       | 46  |
 | 4       | Martin Sørlie       | Lørenskog Modellbilklubb | 44   |     |     |     |     |       | 44  |
