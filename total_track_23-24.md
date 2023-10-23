@@ -15,7 +15,5 @@
 | 11      | Lars Erik Bø        | Lørenskog Modellbilklubb | 37   |     |     |     |     |       | 37  |
 | 12      | Emanuel Myhrman (J) | Bofors MRK               | 36   |     |     |     |     |       | 36  |
 
-
 (*) Markerar den förare som fick två extra poäng för TQ </br>
 (J) Markerar junior
-
