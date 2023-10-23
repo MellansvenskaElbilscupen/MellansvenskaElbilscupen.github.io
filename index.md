@@ -54,6 +54,9 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 ## Om Cupen
 [Länk till mer information om cupen](about.md)
 
+## Tech Sheets
+[Tech Sheets](teach_sheets.md)
+
 ## Tidigare års cupresultat
 __2022-2023__
 * [FWD](total_fwd.md)
