@@ -7,6 +7,5 @@
 | 3       | Per Lindqvist       | Karlstad Miniracing | 46   |     |     |     |     |       | 46  |
 | 4       | Per Andersson       | RB Norrköping       | 44   |     |     |     |     |       | 44  |
 
-
 (*) Markerar den förare som fick två extra poäng för TQ </br>
 (J) Markerar junior
