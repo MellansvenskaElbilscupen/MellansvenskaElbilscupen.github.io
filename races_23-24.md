@@ -7,7 +7,7 @@
 * Anmälan: [MyRCM](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=karlstad&dId[E]=74048&hId[1]=com)
 * Inbjudan: [Klubbens inbjudan](https://www.facebook.com/photo.php?fbid=642728738040105&set=a.411942287785419&type=3&ref=embed_page)
 * Info: [Klubbens hemsida](https://www.kdmr.se) ( [FB sida](https://www.facebook.com/karlstadminiracing))
-* Resultat: Inte kört ännu
+* Resultat: [1/12 13.5T](total_track_23-24.md), [Touring 13.5T](total_touring_23-24.md), [FWD](total_fwd_23-24.md)
 
 ### 2 - Karlskoga
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d648.5516775799703!2d14.494025803194345!3d59.33149141411147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465c8a34e431b655%3A0x19b5b5eef58ed324!2sFlygf%C3%A4ltsv%C3%A4gen%2012%2C%20691%2037%20Karlskoga!5e1!3m2!1sen!2sse!4v1665408559386!5m2!1sen!2sse" width="300" height="225" style="border:5;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -16,14 +16,14 @@
 * Anmälan:
 * Inbjudan:
 * Info: [Bofors MRK](http://www.boforsmrk.se/)
-* Resultat: Inte kört ännu
+* Resultat: [1/12 13.5T](total_track_23-24.md), [Touring 13.5T](total_touring_23-24.md), [FWD](total_fwd_23-24.md)
 
 ### 3 - Eskilstuna
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d907.3165542170461!2d16.48692914413301!3d59.42031032502788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465e8df1cc687c3f%3A0x3657039a2764ac9!2sTorsharg%20Hallen!5e1!3m2!1sen!2sse!4v1677792429585!5m2!1sen!2sse" width="300" height="225" style="border:5;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 * Datum: 2023-12-02
 * Anmälan:
-* Inbjudan:
+* Inbjudan: [Läs här ...](./files/MK Eskil inbjudan deltävling 3 MSEC 2023-12-02.pdf)
 * Info: [Klubbens hemsida](https://www.mkeskil.se/)
 * Resultat: Inte kört ännu
 
