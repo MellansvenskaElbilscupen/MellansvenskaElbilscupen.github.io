@@ -9,5 +9,5 @@
 | 5       | Per Andersson       | RB Norrköping       | 44   |      |     |     |     |       | 44  |
 | 6       | Michael Hahne       | MHF Skarpnäck       |      | 43   |     |     |     |       | 43  |
 
-(*) Markerar den förare som fick två extra poäng för TQ </br>
+(*) Markerar den förare som fick två extra poäng för TQ <br>
 (J) Markerar junior
