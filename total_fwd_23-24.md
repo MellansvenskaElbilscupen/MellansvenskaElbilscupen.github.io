@@ -24,6 +24,5 @@
 | 20      | Tommy Öhngren       | Bofors MRK          |     | 33  |     |     |     |       | 33  |
 | 21      | Christian Andersson | MSK Kvarnvingarna   |     | 32  |     |     |     |       | 32  |
 
-(*) Markerar den förare som fick två extra poäng för TQ
-(J) Markerar junior
+(*) Markerar den förare som fick två extra poäng för TQ<br>(J) Markerar junior
 
