@@ -26,5 +26,5 @@
 | 22      | Christoffer Ek (J)         | Hof Modellbil klubb      |     | 32  |     |     |     |       | 32  |
 | 23      | Erik Andreas Brendsrud (J) | Lørenskog Modellbilklubb |     | 30  |     |     |     |       | 30  |
 
-(*) Markerar den förare som fick två extra poäng för TQ </br>
+(*) Markerar den förare som fick två extra poäng för TQ <br>
 (J) Markerar junior
