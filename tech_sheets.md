@@ -6,3 +6,6 @@
 
 ### MSEC#2 Bofors
 <img src="./images/msec2_2324.JPG" alt="drawing" width="1000"/>
+
+### MSEC#3 MK Eskil
+<img src="./images/msec3_2324.JPG" alt="drawing" width="1000"/>
