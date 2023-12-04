@@ -180,7 +180,7 @@ Minimum 1320g inkl. transponder
 ________________________________________________________________________________
 
 ## 1:12 Track 13,5T:
-**Allmänt:** Körs enligt RB-T 10.0
+**Allmänt:** Körs enligt RB-T 9.0
 
 **Motorer:** Skall uppfylla av _EFRA_, _ROAR_ eller _BRCA_ listorna för 13,5T [motorer](#batterier--motorer)
 
