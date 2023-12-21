@@ -9,6 +9,8 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__23-12-21:__ Nu är finalen av MSEC spikat och det blir i Bofors den 23:e mars
+
 __23-11-19:__ Totalen efter Bofors tävlingen är uppdaterad oh injudan till MK Esil upplagd
 
 __23-10-08:__ Datum och plats för den femte deltävlingen är nu satt. det blir i Västerort den 10:e februari
@@ -43,7 +45,7 @@ Vi hoppas att införandet av enhetsdäck ska förenkla så vi kan få 1:12 klass
 * [2023-12-02 Eskilstuna](races_23-24.md)
 * [2024-01-20 Falun](races_23-24.md)
 * [2024-02-10 Västerort)](races_23-24.md)
-* [2024-03-? (Final)](races_23-24.md)
+* [2024-03-23 Bofors (Final)](races_23-24.md)
 
 ## Inbjudan & Regler
 Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br>
