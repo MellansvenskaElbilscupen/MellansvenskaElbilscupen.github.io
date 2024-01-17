@@ -40,8 +40,8 @@
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1053.5095825901626!2d17.858103896797562!3d59.37538070114638!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9fc6beb479a9%3A0xb7842f4a9ca109f1!2sSkatteg%C3%A5rdsv%C3%A4gen%20130%2C%20162%2050%20V%C3%A4llingby!5e1!3m2!1ssv!2sse!4v1670871130718!5m2!1ssv!2sse" width="300" height="225" style="border:5;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 * Datum: 2024-02-10
-* Anmälan: 
-* Inbjudan: 
+* Anmälan: [House of RC](https://houseofrc.com/events/1436)
+* Inbjudan: [House of RC](https://houseofrc.com/events/1436)
 * Info: [Klubbens hemsida](www.vrcsk.se/)
 * Resultat: 
 
