@@ -19,7 +19,7 @@ Denna hemsida uppdateras löpande med länkar till information kring tävlingar 
 - [Karlstad Miniracing](https://www.kdmr.se)
 - [MK Eskil](https://www.mkeskil.se)
 - [Norrtälje RCK - No Link]()
-- [SMK Dala Falun](https://idrottonline.se/SMKDalaFalun-Bilsport)
+- [SMK Dala Falun](https://smkdala.se/)
 - [Västerås MS](www.vasterasms.se)
 - [Västerort RC sportklubb](www.vrcsk.se/)
 - [Örebro RBC](https://idrottonline.se/OrebroRadioBilClub-Bilsport)
