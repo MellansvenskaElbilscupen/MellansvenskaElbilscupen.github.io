@@ -33,7 +33,7 @@
 * Datum: 2024-01-20
 * Anmälan:
 * Inbjudan:
-* Info: [Klubbens Hemsida](https://idrottonline.se/SMKDalaFalun-Bilsport)
+* Info: [Klubbens Hemsida](https://smkdala.se/)
 * Resultat: Inte kört ännu
 
 ### 5 - Västerort
