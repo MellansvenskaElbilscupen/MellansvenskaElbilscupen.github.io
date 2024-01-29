@@ -42,7 +42,7 @@
 * Datum: 2024-02-10
 * Anmälan: [House of RC](https://houseofrc.com/events/1436)
 * Inbjudan: [House of RC](https://houseofrc.com/events/1436)
-* Info: [Klubbens hemsida](www.vrcsk.se/)
+* Info: [Klubbens hemsida](http://www.vrcsk.se/)
 * Resultat: 
 
 ### 6 (Final) - Karlskoga
