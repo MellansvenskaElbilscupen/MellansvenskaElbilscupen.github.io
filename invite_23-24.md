@@ -103,7 +103,7 @@ __Batterier, allmänna krav för LiPo:__<br>
 Endast batterier som godkänts av antingen __EFRA__, __BRCA__ eller __ROAR__ får användas vid tävlingarna. Laddningsregler enligt batterilista. Om laddström inte anges i batterilistan gäller max 1C. Batterier får endast laddas till MAX _4.20v_ för 1s och _8.40v_ för 2s. Det är inte tillåtet att använda någon form av batterivärmare för att sänka LiPo-packens inre motstånd före och under laddningsprocessen
 
 ### Däcksoppa
-Följande däcksoppor är godkända i MSEC 22/23:
+Följande däcksoppor är godkända i MSEC:
 * MR33 V4 Carpet Additive (0004)
 * Spider Grip Blue Strong (SGBS-125)
 * CS Speed Grip (C6460)
