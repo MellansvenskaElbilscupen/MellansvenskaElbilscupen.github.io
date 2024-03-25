@@ -12,8 +12,8 @@
 | 8       | Andreas Gillblad    | Karlstad Miniracing     | 52* | 48  |     |     |     |       | 100 |
 | 9       | Walter Andersson    | MK Eskil                |     |     |     |     | 44  | 50    | 94  |
 | 10      | Kristoffer Axelsson | Karlstad Miniracing     | 43  | 46  |     |     |     |       | 89  |
-| 11      | Thomas Fredriksson  | Karlstas Miniracing     |     | 41  |     |     |     | 45    | 86  |
-| 12      | Göran Persson       | Örebro RBC              |     | 38  |     |     |     | 48    | 86  |
+| 11      | Göran Persson       | Örebro RBC              |     | 38  |     |     |     | 48    | 86  |
+| 12      | Thomas Fredriksson  | Karlstas Miniracing     |     | 41  |     |     |     | 45    | 86  |
 | 13      | Björn Håkansson     | Karlstad Miniracing     | 40  | 42  |     |     |     |       | 82  |
 | 14      | Anders Stridsberg   | Kils MK Bil             | 38  |     |     |     |     | 43    | 81  |
 | 15      | Johan Lundqvist     | Botkyrka MK             |     |     | 38  |     | 41  |       | 79  |
@@ -24,11 +24,11 @@
 | 20      | Kim Lindgren        | Borås MRK               |     |     |     |     | 46  |       | 46  |
 | 21      | Daniel Färdigh      | Karlstas Miniracing     |     |     |     |     |     | 44    | 44  |
 | 22      | Theo Färdigh        | Karlstas Miniracing     |     |     |     |     |     | 42    | 42  |
-| 23      | Rickard Vikström    | Västerås MS             |     |     | 41  |     |     |       | 41  |
-| 24      | Magnus Nilsson      | Karlstas Miniracing     |     |     |     |     |     | 41    | 41  |
-| 25      | Per Andersson       | Karlstad Miniracing     |     | 40  |     |     |     |       | 40  |
-| 26      | Hasse Ekberg        | NMK Nyköping            |     |     | 40  |     |     |       | 40  |
-| 27      | Stefan Asplund      | Karlstas Miniracing     |     |     |     |     |     | 40    | 40  |
+| 23      | Magnus Nilsson      | Karlstas Miniracing     |     |     |     |     |     | 41    | 41  |
+| 24      | Rickard Vikström    | Västerås MS             |     |     | 41  |     |     |       | 41  |
+| 25      | Stefan Asplund      | Karlstas Miniracing     |     |     |     |     |     | 40    | 40  |
+| 26      | Per Andersson       | Karlstad Miniracing     |     | 40  |     |     |     |       | 40  |
+| 27      | Hasse Ekberg        | NMK Nyköping            |     |     | 40  |     |     |       | 40  |
 | 28      | Joakim Flodman      | Västerort RC Sportklubb |     |     | 39  |     |     |       | 39  |
 | 29      | Jim Olsen           | Uddevalla Kartingklubb  |     |     |     |     |     | 39    | 39  |
 | 30      | Björn Carlsson      | Karlstas Miniracing     |     |     |     |     |     | 38    | 38  |
