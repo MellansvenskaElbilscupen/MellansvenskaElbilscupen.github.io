@@ -9,6 +9,8 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__24-03-25:__ Totalen efter finaltävlingen i Karlskoga är upplagd
+
 __24-01-21:__ Totalen efter Falun är uppdaterad och inbjudan för MSEC#5 i Västerort är upplagd
 
 __23-12-21:__ Nu är finalen av MSEC spikat och det blir i Bofors den 23:e mars
