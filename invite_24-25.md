@@ -161,7 +161,7 @@ Hobbywing Justock 13.5 motor med Justock fartreglage, 22500 varvtalsbegränsning
 **Vinge:** Bredd max 190mm, längd max 40mm, sidoplattor max 40x25mm
 
 **Däck:**
-* U-1041 4560175160412 RUSH TIRE RADIAL, 32X, Seven spoke 035BK Type Black, PREGLUEDTIRE (4PCS)
+* Matrix 1:10 EP 28R Rubber Tire Preglued Carpet (4) _EPC-028_
 
 Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie besiktningstid. _Ingen märkning av däck från handlare behövs_
 
@@ -187,8 +187,8 @@ ________________________________________________________________________________
 **Batterier:** 1 cell LiPo 3,7/3,8V (Hardcase) (se allmän kommentar om [Batterier](#batterier--motorer))
 
 **Däck:**
-* Fram: ULTI XM (ULT12F-6-XM) med MSECs märkning på fälgen (röd etikett med texten ”VOID”).
-* Bak: ULTI XM (ULT12R-6-XM) med MSECs märkning på fäjgen (röd etikett med texten ”VOID”).
+* Fram: ULTI XM _(ULT12F-6-XM)_ med MSECs märkning på fälgen (röd etikett med texten ”VOID”).
+* Bak: ULTI XM _(ULT12R-6-XM)_ med MSECs märkning på fäjgen (röd etikett med texten ”VOID”).
 Däck kan köpas färdigmärkta men man kan även få däck som man själv köpt uppmärkta på tävlingarna förutsatt att de är i en oöppnad förpackning.
 
 **Vikt:** Minimum 730g inkl. transponder
