@@ -11,6 +11,11 @@ _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en sup
 ## Senaste nytt
 __24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis kommer bestå av 5 deltävlingar. Karlstad startar säsongen den 12:e oktober och MK Eskil kör sin tävling den 1:a december (söndag). Vi hoppas att Bofors kommer köra en tävling i november men de väntar på att få besked om hallen från kommunen så vi återkommer om det datumet.
 
+__24-09-05:__ Nu finns de preliminära reglerna för  2024/25 säsongen publicerade. Ändringar från förra säsongen är:
+* 1:10 Touring kommer köras med samma regler som SSIC. det blir Justock 13.5 med 22.500 varvtalsbegränsing och Matrix däck _EPC-028_
+* Kvalsystemet ändras till round-by-round där 2 and 3 kval räknas
+* Laddning/Urladdning kommer begransas till max 12A i och ur. (Detta är en sänkning av vad man max kunnat ladda/ladda ur med från tidigare säsonger) 
+
 __24-09-05:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som subventionerar däcken så att vi fått ett riktigt bra pris.
 
 ULTI XM däcken kommer i påsar med tre par. Priset för en påse fram och en påse bak (3 omgångar) är 550 SEK denna säsong.
@@ -34,12 +39,12 @@ __24-01-21:__ Totalen efter Falun är uppdaterad och inbjudan för MSEC#5 i Väs
 * [2024-10-12 Karlstad](races_24-25.md#1---karlstad)
 * [2024-11-?? Bofors](races_24-25.md)
 * [2024-12-01 Eskilstuna](races_24-25.md)
-* [2025-?? Västerort)](races_23-24.md)
+* [2025-?? ](races_23-24.md)
 * [2024-?? (Final)](races_23-24.md)
 
 ## Inbjudan & Regler
 Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br>
-[Inbjudan och regler 2023-2024](invite_23-24.md)
+[Inbjudan och regler 2024-2025](invite_24-25.md)
 
 ## Om Cupen
 [Länk till mer information om cupen](about.md)
