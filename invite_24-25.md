@@ -147,34 +147,33 @@ Förare med D licens och U-intyg får använda bilar/elektronik som inte ger tek
 ________________________________________________________________________________
 
 ## Touring Stock 13,5T:
-**Allmänt:**
-Körs enligt RB-T 8.0
+**Drivlina**
+Hobbywing Justock 13.5 motor med Justock fartreglage, 22500 varvtalsbegränsning i fartreglaget. Både nya och gamla Justockreglagen är godkända.
 
-**Motorer:**
-Skall uppfyllas av _EFRA_, _ROAR_ eller _BRCA_ listorna för 13,5T [motorer](#batterier--motorer)
+* __Motor:__ Hobbywing - _HW30408010_ (Justock 3650 G2.1 13.5T)
+* __Fartreglage:__ Hobbywing - _HW30112003_ (XeRun XR10 Justock G3), _HW30112005_ (XeRun XR10 Justock G3S)
+* __Paket:__ Hobywing - _HW38020320_ ( XeRun XR10 Justock G3 + Justock 3650 G2.1 13.5T), _HW38020371_ ( XeRun XR10 Justock G3S + Justock 3650 G2.1 13.5T)
 
-**Fartreglage:**
-Valfritt reglage med 0-timing, s.k. ”Blinky”
-
-**Utväxling:**
-Total utväxling skall vara ≥ 4.50 (t.ex. så är 4.49 underkänd)
+**Utväxling:** Total utväxling skall vara lägst 5.00 ( t.ex. så är 4.95 underkänd)
 
 **Batterier:** 2 celler LiPo 7,4/7.6V (Hardcase) (se allmän kommentar om [batterier](#batterier--motorer))
 
-**Vinge:**
-Bredd max 190mm, längd max 40mm, sidoplattor max 40x25mm.
+**Vinge:** Bredd max 190mm, längd max 40mm, sidoplattor max 40x25mm
 
-**Däck:**<br>
-Hudy Touring 1/10 Carpet C3-28 (Hudy - 803053)<br>
-_Endast färdiglimmade på fälg är tillåtna, man får ej limma ihop sina egna set däck._
+**Däck:**
+* U-1041 4560175160412 RUSH TIRE RADIAL, 32X, Seven spoke 035BK Type Black, PREGLUEDTIRE (4PCS)
 
-Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie besiktningstid.
+Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie besiktningstid. _Ingen märkning av däck från handlare behövs_
 
-**Vikt:**
-Minimum 1320g inkl. transponder
+**Mått & Vikt:**
+* __Minimivikt:__ 1320g (körklar inklusive transponder)
+* __Markfrigång:__ 5 mm innan start av heat mätt på plan hård yta
 
 **Karosser:**
-190mm 4 dörrars sedankarosser som finns tillgängliga. Minimihöjd 115mm, ingen viktgräns på själva karossen
+190mm 4 dörrars sedankarosser som finns tillgängliga. ETS karosslista är en bra referens. Minimihöjd 115mm. Obs, ingen viktgräns.
+
+**Förare:**
+Förare med D licens och U-intyg får använda bilar/elektronik som inte ger teknisk fördel jämfört med reglementet. Detta avgörs av besiktningen vid vardera tävling.
 
 ________________________________________________________________________________
 
