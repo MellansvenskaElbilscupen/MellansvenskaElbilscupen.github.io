@@ -57,7 +57,7 @@ __2023-2024__
 * [FWD](total_fwd_23-24.md)
 * [Touring Stock 13,5T](total_touring_23-24.md)
 * [1:12 Track 13,5T](total_track_23-24.md)
-* 
+
 __2022-2023__
 * [FWD](total_fwd.md)
 * [Touring Stock 13,5T](total_touring.md)
