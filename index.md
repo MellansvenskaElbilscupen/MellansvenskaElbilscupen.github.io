@@ -1,4 +1,4 @@
-# Mellansvenska Elbilscupen 2023 - 2024
+# Mellansvenska Elbilscupen 2024 - 2025
 
 **Årets klasser:**
 * 1:12 Track 13,5T
@@ -9,32 +9,33 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis kommer bestå av 5 deltävlingar. Karlstad startar säsongen den 12:e oktober och MK Eskil kör sin tävling den 1:a december (söndag). Vi hoppas att Bofors kommer köra en tävling i november men de väntar på att få besked om hallen från kommunen så vi återkommer om det datumet.
+
+__24-09-05:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som subventionerar däcken så att vi fått ett riktigt bra pris.
+
+ULTI XM däcken kommer i påsar med tre par. Priset för en påse fram och en påse bak (3 omgångar) är 550 SEK denna säsong.
+
+* __550 SEK__ - (3 omgångar fram och bak)
+
+För att beställa däcken skickar man ett mail till msec@advanced-electronics.se med sina kontaktuppgifter och hur många påsar man vill ha. Man behöver också ange om man vill ha däcken skickade hem eller få dem på nästa race. Vill man ha däcken skickade tillkommer en fraktavgift som man får reda på i den faktura man kommer få tillbaka på mailen.
+
+Däcken kommer kunna betalas med SWISH eller Bankgiro enligt fakturan. Däcken skickas först när betalning är gjord.
+Det kommer också finnas däck att köpa på racen men för att vara säker på att det inte tar slut bör man göra en beställning innan racet och meddela att däcken hämtas på ”Karlstad” racet som exempel.
+
 __24-03-25:__ Totalen efter finaltävlingen i Karlskoga är upplagd
 
 __24-01-21:__ Totalen efter Falun är uppdaterad och inbjudan för MSEC#5 i Västerort är upplagd
 
-__23-12-21:__ Nu är finalen av MSEC spikat och det blir i Bofors den 23:e mars
-
-__23-11-19:__ Totalen efter Bofors tävlingen är uppdaterad oh injudan till MK Esil upplagd
-
-__23-10-08:__ Datum och plats för den femte deltävlingen är nu satt. det blir i Västerort den 10:e februari
-
-__23-10-08:__ Uppdaterad länk för anmälan till Karlstad 23-10-21 ([anmälan](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=karlstad&dId[E]=74048&hId[1]=com))
-
-__23-10-08:__ Fixade den nya karosslistan för FWD. [länk](./files/karosser2.pdf)
 
 ## Cupställning
-* [FWD](total_fwd_23-24.md)
-* [Touring Stock 13,5T](total_touring_23-24.md)
-* [1:12 Track 13,5T](total_track_23-24.md)
+
 
 ## Tävlingar
-* [2023-10-21 Karlstad](races_23-24.md#1---karlstad)
-* [2023-11-18 Bofors](races_23-24.md)
-* [2023-12-02 Eskilstuna](races_23-24.md)
-* [2024-01-20 Falun](races_23-24.md)
-* [2024-02-10 Västerort)](races_23-24.md)
-* [2024-03-23 Bofors (Final)](races_23-24.md)
+* [2024-10-12 Karlstad](races_24-25.md#1---karlstad)
+* [2024-11-?? Bofors](races_24-25.md)
+* [2024-12-01 Eskilstuna](races_24-25.md)
+* [2025-?? Västerort)](races_23-24.md)
+* [2024-?? (Final)](races_23-24.md)
 
 ## Inbjudan & Regler
 Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br>
@@ -47,12 +48,27 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 [Tech Sheets](tech_sheets.md)
 
 ## Tidigare års cupresultat
+__2023-2024__
+* [FWD](total_fwd_23-24.md)
+* [Touring Stock 13,5T](total_touring_23-24.md)
+* [1:12 Track 13,5T](total_track_23-24.md)
+* 
 __2022-2023__
 * [FWD](total_fwd.md)
 * [Touring Stock 13,5T](total_touring.md)
 * [1:12 Track 13,5T](total_track.md)
 
 ## Gamla nyheter
+__23-12-21:__ Nu är finalen av MSEC spikat och det blir i Bofors den 23:e mars
+
+__23-11-19:__ Totalen efter Bofors tävlingen är uppdaterad oh injudan till MK Esil upplagd
+
+__23-10-08:__ Datum och plats för den femte deltävlingen är nu satt. det blir i Västerort den 10:e februari
+
+__23-10-08:__ Uppdaterad länk för anmälan till Karlstad 23-10-21 ([anmälan](https://www.myrcm.ch/myrcm/main?pLa=en&dFi=karlstad&dId[E]=74048&hId[1]=com))
+
+__23-10-08:__ Fixade den nya karosslistan för FWD. [länk](./files/karosser2.pdf)
+
 __23-09-24:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som subventionerar däcken så att vi fått ett riktigt bra pris.
 
 ULTI XM däcken kommer i påsar med tre par. Priset för en påse fram och en påse bak (3 omgångar) är 500 SEK (238 SEK för fram och 262 SEK för bak).
