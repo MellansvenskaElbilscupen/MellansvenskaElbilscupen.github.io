@@ -14,7 +14,7 @@ __24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis komm
 __24-09-05:__ Nu finns de preliminära reglerna för  2024/25 säsongen publicerade. Ändringar från förra säsongen är:
 * 1:10 Touring kommer köras med samma regler som SSIC. det blir Justock 13.5 med 22.500 varvtalsbegränsing och Matrix däck _EPC-028_
 * Kvalsystemet ändras till round-by-round där 2 and 3 kval räknas
-* Laddning/Urladdning kommer begransas till max 12A i och ur. (Detta är en sänkning av vad man max kunnat ladda/ladda ur med från tidigare säsonger) 
+* Laddning/Urladdning kommer begränsas till max 12A i och ur. (Detta är en sänkning av vad man max kunnat ladda/ladda ur med från tidigare säsonger) 
 
 __24-09-05:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som subventionerar däcken så att vi fått ett riktigt bra pris.
 
