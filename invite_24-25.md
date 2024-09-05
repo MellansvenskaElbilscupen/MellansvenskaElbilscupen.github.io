@@ -118,9 +118,9 @@ Hobbywing Justock 17.5 motor med Justock fartreglage, 17500 varvtalsbegränsning
 
 ESC skall använda programvara __.V1_17k5_NoTIMING__ (Original 17500 RPM begränsning).
 
-* __Motor:__ Hobbywing - _30408011_ (Justock 3650 G2.1 17.5T)
-* __Fartreglage:__ Hobbywing - _30112003_ (XeRun XR10 Justock G3)
-* __Paket:__ Hobywing - _38020321_ ( XeRun XR10 Justock G3 + Justock 3650 G2.1 17.5T)
+* __Motor:__ Hobbywing - _HW30408011_ (Justock 3650 G2.1 17.5T)
+*  __Fartreglage:__ Hobbywing - _HW30112003_ (XeRun XR10 Justock G3), _HW30112005_ (XeRun XR10 Justock G3S)
+* __Paket:__ Hobywing - _HW38020321_ ( XeRun XR10 Justock G3 + Justock 3650 G2.1 17.5T), _HW38020371_ ( XeRun XR10 Justock G3S + Justock 3650 G2.1 17.5T)
 
 **Utväxling:** Total utväxling skall vara lägst 5.00 ( t.ex. så är 4.95 underkänd)
 
