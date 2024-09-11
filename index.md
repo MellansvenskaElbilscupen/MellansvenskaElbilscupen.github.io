@@ -9,6 +9,8 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__24-09-11__ vi är glada att meddela att Bofors fått halltid 9:e november så nu är höstens 3 tävligsdatum klara.
+
 __24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis kommer bestå av 5 deltävlingar. Karlstad startar säsongen den 12:e oktober och MK Eskil kör sin tävling den 1:a december (söndag). Vi hoppas att Bofors kommer köra en tävling i november men de väntar på att få besked om hallen från kommunen så vi återkommer om det datumet.
 
 __24-09-05:__ Nu finns de preliminära reglerna för  2024/25 säsongen publicerade. Ändringar från förra säsongen är:
@@ -37,7 +39,7 @@ __24-01-21:__ Totalen efter Falun är uppdaterad och inbjudan för MSEC#5 i Väs
 
 ## Tävlingar
 * [2024-10-12 Karlstad](races_24-25.md#1---karlstad)
-* [2024-11-?? Bofors](races_24-25.md)
+* [2024-11-09 Bofors](races_24-25.md)
 * [2024-12-01 Eskilstuna](races_24-25.md)
 * [2025-?? ](races_23-24.md)
 * [2024-?? (Final)](races_23-24.md)
