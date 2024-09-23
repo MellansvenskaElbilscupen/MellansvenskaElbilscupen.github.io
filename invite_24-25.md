@@ -114,13 +114,16 @@ ________________________________________________________________________________
 
 ## FWD:
 **Drivlina**
-Hobbywing Justock 17.5 motor med Justock fartreglage, 17500 varvtalsbegränsning i fartreglaget. Både nya och gamla Justockreglagen är godkända.
-
-ESC skall använda programvara __.V1_17k5_NoTIMING__ (Original 17500 RPM begränsning).
-
-* __Motor:__ Hobbywing - _HW30408011_ (Justock 3650 G2.1 17.5T)
-*  __Fartreglage:__ Hobbywing - _HW30112003_ (XeRun XR10 Justock G3), _HW30112005_ (XeRun XR10 Justock G3S)
-* __Paket:__ Hobywing - _HW38020321_ ( XeRun XR10 Justock G3 + Justock 3650 G2.1 17.5T), _HW38020371_ ( XeRun XR10 Justock G3S + Justock 3650 G2.1 17.5T)
+* Endast Motor HW30408011 Justock 3650 G2.1 17.5T Sensor (Fast Timing) är godkänd 
+* Hobbywing XeRun XR10 Justock G3S, HW30112005 (Combo med motor HW38020372). 
+Hobbywing XR10 Justock G3, HW30112003 (Combo med motor HW38020321) 
+(Detta ersätter tidigare varianter av XR10 Justock som skall ha programvara: 
+__V1_17k5_NoTIMING__. (Original 17 500 RPM varvtalsbegränsning).) 
+* Kablar får kortas ner men all övrig form av modifiering av motor eller ESC är förbjudet. 
+* Fartreglage skall vara i 0-timing / Blinky mode. Ingen Boost / Turbo etc. är tillåtet. 
+* 17 500 RPM gäller som varvtalsbegränsning. -GRÖN- -GRÖN- -GRÖN- -GRÖN- --RÖD--
+* Hobbywing XeRun XR10 Justock G3S skall ha programvara: __XR_4.4.03_G3__ och köras i 
+”Justock G3” läge. 
 
 **Utväxling:** Total utväxling skall vara lägst 5.00 ( t.ex. så är 4.95 underkänd)
 
@@ -129,9 +132,9 @@ ESC skall använda programvara __.V1_17k5_NoTIMING__ (Original 17500 RPM begrän
 **Vinge:** Originalvinge skall användas, alltså vingen som följer med karossen. Vinge skall vara monterad enligt tillverkarens intention.
 
 **Däck:**
-* U-1041 4560175160412 RUSH TIRE RADIAL, 32X, Seven spoke 035BK Type Black, PREGLUEDTIRE (4PCS)
+* Endast RUSH, RU-1041 4560175160412 RUSH TIRE RADIAL, 32X, Seven spoke 035BK Type Black, PREGLUEDTIRE (4PCS), är 
+godkända. 1 set (4st) hjul är tillåtet per tävling. Vid spräckt fälg eller defekt däck får ett hjulpar bytas ut via ny besiktning
 
-Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie besiktningstid. _Ingen märkning av däck från handlare behövs_
 
 **Mått & Vikt:**
 * __Bredd__ Max 190mm (bredd mellan yttersida hjul)
