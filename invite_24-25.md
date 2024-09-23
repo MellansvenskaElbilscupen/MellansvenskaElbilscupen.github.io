@@ -142,7 +142,7 @@ godkända. 1 set (4st) hjul är tillåtet per tävling. Vid spräckt fälg eller
 * __Minimivikt:__ 1200g (körklar inklusive transponder)
 
 **Karosser:**
-Se separat [karosslista](./files/karosser2.pdf)
+Se separat [karosslista](./files/fwd-kaross-24-2.pdf)
 
 **Förare:**
 Förare med D licens och U-intyg får använda bilar/elektronik som inte ger teknisk fördel jämfört med reglementet. Detta avgörs av besiktningen vid vardera tävling.
