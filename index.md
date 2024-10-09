@@ -35,7 +35,9 @@ __24-01-21:__ Totalen efter Falun är uppdaterad och inbjudan för MSEC#5 i Väs
 
 
 ## Cupställning
-
+* [FWD](total_fwd_24-25.md)
+* [Touring Stock 13,5T](total_touring_24-25.md)
+* [1:12 Track 13,5T](total_track_24-25.md)
 
 ## Tävlingar
 * [2024-10-12 Karlstad](races_24-25.md#1---karlstad)
