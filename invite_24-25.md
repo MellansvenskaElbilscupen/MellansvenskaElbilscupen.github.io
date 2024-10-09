@@ -43,7 +43,7 @@ ________________________________________________________________________________
 ## Tävlingsform:
 * __Heatträning__: Touring 2x5 min, 1:12 2x8 min, FWD 2x6 min. (sista träningsheatet är obligatoriskt för att säkerställa att varvtagningsutrustning fungerar). Seedning skall genomföras innan kvalen. De tre bästa efterföljande varven i något av träningsheaten. Cupdäcken måste användas under den seedade träningen, däcken ska vara märkta av besiktningen innan start av andra träningsheatet.
 
-* __Kval__: Touring 3x5 min, 1:12 3x8 min, FWD 3x6 min. Körs med delayed start eller rullande start, detta tas upp på förarmötet vilket format som ska köras.
+* __Kval__: Touring 3x5 min, 1:12 3x8 min, FWD 3x6 min. Körs med delayed start eller rullande start, detta tas upp på förarmötet vilket format som ska köras. Round-by-round (2 avd 3 omgångar räknas)
 
 * __Finaler__: Round-by-round (2 avd 3 omgångar räknas) i kvalen avgör startordning. Finaler Touring 3x5 min, 1:12 3x8 min, FWD 3x6 min. Underfinaler körs i 3 upplagor, vid lång dag har arrangör möjlighet att begränsa till 2 underfinaler. De 2 bästa resultaten i finlerna räknas. _Alla finalstarter görs efter nedräkning med ljudsignal_.
 
