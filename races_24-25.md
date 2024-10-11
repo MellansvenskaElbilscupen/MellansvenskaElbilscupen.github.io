@@ -28,12 +28,14 @@
 * Resultat: Inte kört ännu
 
 ### 4 - Falun
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3414.143367583004!2d15.654939351208544!3d60.60647217692223!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4667700dd9da9d6f%3A0xc26a6e63fd5063d4!2sSoldatv%C3%A4gen%2010%2C%20791%2040%20Falun!5e1!3m2!1ssv!2sse!4v1670870902928!5m2!1ssv!2sse" width="300" height="225" style="border:5;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 * Datum: 2025-02-15
 * Anmälan:
 * Inbjudan:
-* Info: 
+* Info: [Klubbens Hemsida](https://smkdala.se/)
 * Resultat: Inte kört ännu
+
 
 ### 5 (Final) - 
 
