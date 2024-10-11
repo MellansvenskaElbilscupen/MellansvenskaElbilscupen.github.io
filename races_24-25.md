@@ -27,9 +27,9 @@
 * Info: [Klubbens hemsida](https://www.mkeskil.se/)
 * Resultat: Inte kört ännu
 
-### 4 -
+### 4 - Falun
 
-* Datum: 2025-
+* Datum: 2025-02-15
 * Anmälan:
 * Inbjudan:
 * Info: 
