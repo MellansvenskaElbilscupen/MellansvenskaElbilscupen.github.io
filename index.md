@@ -9,6 +9,8 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__24-10-11__ Falun är klar som arrangör och deras tvävling körs den 15:e februari 2025.
+
 __24-09-11__ vi är glada att meddela att Bofors fått halltid 9:e november så nu är höstens 3 tävligsdatum klara.
 
 __24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis kommer bestå av 5 deltävlingar. Karlstad startar säsongen den 12:e oktober och MK Eskil kör sin tävling den 1:a december (söndag). Vi hoppas att Bofors kommer köra en tävling i november men de väntar på att få besked om hallen från kommunen så vi återkommer om det datumet.
