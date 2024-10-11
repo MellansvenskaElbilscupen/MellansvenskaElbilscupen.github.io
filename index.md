@@ -43,8 +43,8 @@ __24-01-21:__ Totalen efter Falun är uppdaterad och inbjudan för MSEC#5 i Väs
 * [2024-10-12 Karlstad](races_24-25.md#1---karlstad)
 * [2024-11-09 Bofors](races_24-25.md)
 * [2024-12-01 Eskilstuna](races_24-25.md)
-* [2025-?? ](races_23-24.md)
-* [2024-?? (Final)](races_23-24.md)
+* [2025-02-15 Falun](races_24-25.md)
+* [2025-?? (Final)](races_24-25.md)
 
 ## Inbjudan & Regler
 Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br>
