@@ -8,7 +8,7 @@
 | 5       | Fredrik Jarl                | Woxnadalens MK         | 43   |     |     |     |       | 43  |
 | 6       | Per Andersson               | Karlstad Miniracing    | 42   |     |     |     |       | 42  |
 | 7       | Fredrik Persson             | RB Norrköping          | 41   |     |     |     |       | 41  |
-| 8       | Walter Andersson            | MK Eskil               | 40   |     |     |     |       | 40  |
+| 8       | Walter Andersson (J)        | MK Eskil               | 40   |     |     |     |       | 40  |
 | 9       | Theo Färdigh                | Karlstas Miniracing    | 39   |     |     |     |       | 39  |
 | 10      | Pjerre "Smurfen" Gustavsson | Nyköpings Modellklubb  | 38   |     |     |     |       | 38  |
 | 11      | Jim Olsen                   | Uddevalla Kartingklubb | 37   |     |     |     |       | 37  |
