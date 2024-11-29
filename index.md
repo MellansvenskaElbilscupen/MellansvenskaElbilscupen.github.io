@@ -9,9 +9,11 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__24-11-29__ MSEC #3 kommer gå i Lidköping söndagen den 2:a februari. Det kommer finnas möjlighet för träning på banan den 1:a februari. Mer info kommer från klubben med inbjudan.
+
 __24-10-11__ Falun är klar som arrangör och deras tvävling körs den 15:e februari 2025.
 
-__24-09-11__ vi är glada att meddela att Bofors fått halltid 9:e november så nu är höstens 3 tävligsdatum klara.
+__24-09-11__ Vi är glada att meddela att Bofors fått halltid 9:e november så nu är höstens 3 tävligsdatum klara.
 
 __24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis kommer bestå av 5 deltävlingar. Karlstad startar säsongen den 12:e oktober och MK Eskil kör sin tävling den 1:a december (söndag). Vi hoppas att Bofors kommer köra en tävling i november men de väntar på att få besked om hallen från kommunen så vi återkommer om det datumet.
 
@@ -31,10 +33,6 @@ För att beställa däcken skickar man ett mail till msec@advanced-electronics.s
 Däcken kommer kunna betalas med SWISH eller Bankgiro enligt fakturan. Däcken skickas först när betalning är gjord.
 Det kommer också finnas däck att köpa på racen men för att vara säker på att det inte tar slut bör man göra en beställning innan racet och meddela att däcken hämtas på ”Karlstad” racet som exempel.
 
-__24-03-25:__ Totalen efter finaltävlingen i Karlskoga är upplagd
-
-__24-01-21:__ Totalen efter Falun är uppdaterad och inbjudan för MSEC#5 i Västerort är upplagd
-
 
 ## Cupställning
 * [FWD](total_fwd_24-25.md)
@@ -45,8 +43,9 @@ __24-01-21:__ Totalen efter Falun är uppdaterad och inbjudan för MSEC#5 i Väs
 * [2024-10-12 Karlstad](races_24-25.md#1---karlstad)
 * [2024-11-09 Bofors](races_24-25.md)
 * [2024-12-01 Eskilstuna](races_24-25.md)
+* [2025-02-02 Lidköping](races_24-25.md)
 * [2025-02-15 Falun](races_24-25.md)
-* [2025-?? (Final)](races_24-25.md)
+* [2025-03-08 (Final)](races_24-25.md)
 
 ## Inbjudan & Regler
 Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br>
@@ -70,6 +69,10 @@ __2022-2023__
 * [1:12 Track 13,5T](total_track.md)
 
 ## Gamla nyheter
+__24-03-25:__ Totalen efter finaltävlingen i Karlskoga är upplagd
+
+__24-01-21:__ Totalen efter Falun är uppdaterad och inbjudan för MSEC#5 i Västerort är upplagd
+
 __23-12-21:__ Nu är finalen av MSEC spikat och det blir i Bofors den 23:e mars
 
 __23-11-19:__ Totalen efter Bofors tävlingen är uppdaterad oh injudan till MK Esil upplagd
