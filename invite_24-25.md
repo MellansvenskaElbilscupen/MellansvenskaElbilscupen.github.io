@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 * __Finaler__: Round-by-round (2 avd 3 omgångar räknas) i kvalen avgör startordning. Finaler Touring 3x5 min, 1:12 3x8 min, FWD 3x6 min. Underfinaler körs i 3 upplagor, vid lång dag har arrangör möjlighet att begränsa till 2 underfinaler. De 2 bästa resultaten i finlerna räknas. _Alla finalstarter görs efter nedräkning med ljudsignal_.
 
-__Tävlingsformat för FWD kan belutas av varje arrangerande klubb. Antingen körs traditionellt tidskval (beskrivet ovan), eller Heatracing enligt _Team Office Cup_ formatet. Vilket format man kommer köra skall framgå av klubbens inbudan till tävlingen.__
+__Tävlingsformat för FWD kan belutas av varje arrangerande klubb. Antingen körs traditionellt tidskval (beskrivet ovan), eller Heatracing enligt _FWD-Sweden.se_ formatet. Vilket format man kommer köra skall framgå av klubbens inbudan till tävlingen.__
 
 #### Priser:
 1-3 i A-finalen, Segrarna i underfinaler, samt bästa junior i varje klass.
