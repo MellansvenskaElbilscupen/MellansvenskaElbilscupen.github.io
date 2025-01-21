@@ -17,6 +17,7 @@ Denna hemsida uppdateras löpande med länkar till information kring tävlingar 
 - [AMF Årsunda](http://amfrb.se)
 - [Bofors MRK](http://www.boforsmrk.se/)
 - [Karlstad Miniracing](https://www.kdmr.se)
+- [Lidköpings R/C Klubb](https://www.lrck.se/)
 - [MK Eskil](https://www.mkeskil.se)
 - [Norrtälje RCK - No Link]()
 - [SMK Dala Falun](https://smkdala.se/)
