@@ -61,10 +61,10 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 
 ## Tidigare års cupresultat
 __2024-2025__
- [FWD](total_fwd_24-25.md)
+* [FWD](total_fwd_24-25.md)
 * [Touring Stock 13,5T](total_touring_24-25.md)
 * [1:12 Track 13,5T](total_track_24-25.md)
-* 
+  
 __2023-2024__
 * [FWD](total_fwd_23-24.md)
 * [Touring Stock 13,5T](total_touring_23-24.md)
