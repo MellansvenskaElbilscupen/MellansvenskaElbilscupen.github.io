@@ -124,7 +124,7 @@ __V1_17k5_NoTIMING__. (Original 17 500 RPM varvtalsbegränsning).)
 * Kablar får kortas ner men all övrig form av modifiering av motor eller ESC är förbjudet. 
 * Fartreglage skall vara i 0-timing / Blinky mode. Ingen Boost / Turbo etc. är tillåtet. 
 * 17 500 RPM gäller som varvtalsbegränsning. -GRÖN- -GRÖN- -GRÖN- -GRÖN- --RÖD--
-* Hobbywing XeRun XR10 Justock G3S skall ha programvara: __XR_4.4.03_G3__??? och köras i 
+* Hobbywing XeRun XR10 Justock G3S skall ha programvara: __XR_4.4.04_G3__ och köras i 
 ”Justock G3” läge. 
 
 **Utväxling:** Total utväxling skall vara lägst 5.00 ( t.ex. så är 4.95 underkänd)
@@ -153,7 +153,7 @@ ________________________________________________________________________________
 
 ## Touring Stock 13,5T:
 **Drivlina**
-Hobbywing Justock 13.5 motor med Justock fartreglage, 22500 varvtalsbegränsning i fartreglaget. Både nya och gamla Justockreglagen är godkända.
+Hobbywing Justock 13.5 motor med Justock fartreglage, 22500 varvtalsbegränsning i fartreglaget. Både nya och gamla Justockreglagen är godkända. Hobbywing XeRun XR10 Justock G3S skall ha programvara: XR_4.4.04_G3 och köras i ”Justock G3” läge.
 
 * __Motor:__ Hobbywing - _HW30408010_ (Justock 3650 G2.1 13.5T)
 * __Fartreglage:__ Hobbywing - _HW30112003_ (XeRun XR10 Justock G3), _HW30112005_ (XeRun XR10 Justock G3S)
@@ -175,7 +175,7 @@ Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie
 * __Markfrigång:__ 5 mm innan start av heat mätt på plan hård yta
 
 **Karosser:**
-190mm 4 dörrars sedankarosser som finns tillgängliga. ETS karosslista är en bra referens. Minimihöjd 115mm. Obs, ingen viktgräns.
+190mm 4 dörrars sedankarosser som finns tillgängliga eller GT karosser enligt SBFs lista. Minimihöjd 115mm. 
 
 **Förare:**
 Förare med D licens och U-intyg får använda bilar/elektronik som inte ger teknisk fördel jämfört med reglementet. Detta avgörs av besiktningen vid vardera tävling.
