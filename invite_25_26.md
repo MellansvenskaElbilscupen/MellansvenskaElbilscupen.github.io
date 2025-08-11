@@ -137,6 +137,8 @@ __V1_17k5_NoTIMING__. (Original 17 500 RPM varvtalsbegränsning).)
 * Endast RUSH, RU-1041 4560175160412 RUSH TIRE RADIAL, 32X, Seven spoke 035BK Type Black, PREGLUEDTIRE (4PCS), är 
 godkända. 1 set (4st) hjul är tillåtet per tävling. Vid spräckt fälg eller defekt däck får ett hjulpar bytas ut via ny besiktning
 
+**Däcksoppa:**
+* PHUB - X Grp Carpet - Yellow (PH56)
 
 **Mått & Vikt:**
 * __Bredd__ Max 190mm (bredd mellan yttersida hjul)
@@ -170,6 +172,9 @@ Hobbywing Justock 13.5 motor med Justock fartreglage, 22500 varvtalsbegränsning
 
 Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie besiktningstid. _Ingen märkning av däck från handlare behövs_
 
+**Däcksoppa:**
+* PHUB - X Grp Carpet - Yellow (PH56)
+
 **Mått & Vikt:**
 * __Minimivikt:__ 1320g (körklar inklusive transponder)
 * __Markfrigång:__ 5 mm innan start av heat mätt på plan hård yta
@@ -195,6 +200,9 @@ ________________________________________________________________________________
 * Fram: ULTI XM _(ULT12F-6-XM)_ med MSECs märkning på fälgen (röd etikett med texten ”VOID”).
 * Bak: ULTI XM _(ULT12R-6-XM)_ med MSECs märkning på fäjgen (röd etikett med texten ”VOID”).
 Däck kan köpas färdigmärkta men man kan även få däck som man själv köpt uppmärkta på tävlingarna förutsatt att de är i en oöppnad förpackning.
+
+**Däcksoppa:**
+* CS Speed Grip (C6460)
 
 **Vikt:** Minimum 730g inkl. transponder
 
