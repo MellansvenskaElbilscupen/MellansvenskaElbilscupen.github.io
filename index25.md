@@ -51,7 +51,7 @@ Det kommer också finnas däck att köpa på racen men för att vara säker på 
 
 ## Inbjudan & Regler
 Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br>
-[Inbjudan och regler 2025-2026](invite_25-26.md)
+[Inbjudan och regler 2025-2026](invite_25_26.md)
 
 ## Om Cupen
 [Länk till mer information om cupen](about.md)
