@@ -46,7 +46,7 @@ Det kommer också finnas däck att köpa på racen men för att vara säker på 
 * [2024-11-08 Bofors](races_25-26.md)
 * [2024-12-??](races_25-26.md)
 * [2025-02-??](races_25-26.md)
-* [2025-03-?? (Final)](races_25-26.md)
+* [2025-03-?? (Final) Lidköping](races_25-26.md)
 
 
 ## Inbjudan & Regler
