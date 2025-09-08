@@ -146,8 +146,8 @@ godkända. 1 set (4st) hjul är tillåtet per tävling. Vid spräckt fälg eller
 * __Minimivikt:__ 1200g (körklar inklusive transponder)
 
 **Karosser:**
-Se separat [Karosslista för FWD](https://www.sbf.se/sportgrenar/radiostyrd-bilsport/regler)
-We
+Se separat [Karosslista](https://www.sbf.se/download/18.5589506e196b020db47e9883/1747373952452/Karosslista%20FWD%202025-1.pdf)
+
 **Förare:**
 Förare med D licens och U-intyg får använda bilar/elektronik som inte ger teknisk fördel jämfört med reglementet. Detta avgörs av besiktningen vid vardera tävling.
 
