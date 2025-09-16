@@ -105,7 +105,8 @@ Endast batterier som godkänts av antingen __EFRA__, __BRCA__ eller __ROAR__ få
 Följande däcksoppor är godkända i MSEC
 
 FWD och 1:10 Touring:
-* PHUB - X Grp Carpet - Yellow (PH56)
+* MR33 V5 Carpet Additive 100ml ETS (MR33-104056)
+* PHUB - X Grp Carpet - Yellow (PH56) (Den här soppan kommer sluta säljas och har ersatts av MR33 V5 som är exakt samma)
 
 1:12 Track:
 * CS Speed Grip (C6460)
