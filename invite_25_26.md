@@ -139,7 +139,8 @@ __V1_17k5_NoTIMING__. (Original 17 500 RPM varvtalsbegränsning).)
 godkända. 1 set (4st) hjul är tillåtet per tävling. Vid spräckt fälg eller defekt däck får ett hjulpar bytas ut via ny besiktning
 
 **Däcksoppa:**
-* PHUB - X Grp Carpet - Yellow (PH56)
+* MR33 V5 Carpet Additive 100ml (MR33-104056)
+* * PHUB - X Grp Carpet - Yellow (PH56)
 
 **Mått & Vikt:**
 * __Bredd__ Max 190mm (bredd mellan yttersida hjul)
@@ -174,7 +175,8 @@ Hobbywing Justock 13.5 motor med Justock fartreglage, 22500 varvtalsbegränsning
 Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie besiktningstid. _Ingen märkning av däck från handlare behövs_
 
 **Däcksoppa:**
-* PHUB - X Grp Carpet - Yellow (PH56)
+* MR33 V5 Carpet Additive 100ml (MR33-104056)
+* * PHUB - X Grp Carpet - Yellow (PH56)
 
 **Mått & Vikt:**
 * __Minimivikt:__ 1320g (körklar inklusive transponder)
