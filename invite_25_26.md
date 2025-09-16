@@ -140,7 +140,7 @@ godkända. 1 set (4st) hjul är tillåtet per tävling. Vid spräckt fälg eller
 
 **Däcksoppa:**
 * MR33 V5 Carpet Additive 100ml (MR33-104056)
-* * PHUB - X Grp Carpet - Yellow (PH56)
+* PHUB - X Grp Carpet - Yellow (PH56)
 
 **Mått & Vikt:**
 * __Bredd__ Max 190mm (bredd mellan yttersida hjul)
@@ -176,7 +176,7 @@ Max 8 däck, eller 4 par/per tävling, dessa skall besiktigas in under ordinarie
 
 **Däcksoppa:**
 * MR33 V5 Carpet Additive 100ml (MR33-104056)
-* * PHUB - X Grp Carpet - Yellow (PH56)
+* PHUB - X Grp Carpet - Yellow (PH56)
 
 **Mått & Vikt:**
 * __Minimivikt:__ 1320g (körklar inklusive transponder)
