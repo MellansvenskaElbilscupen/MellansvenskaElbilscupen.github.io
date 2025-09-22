@@ -9,9 +9,10 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__25-09-22__ Tävlingsdatum för MSEC#4 i Falun har nu blivit satt till den 7:e februari 2026.
+
 __25-09-16__ Det har kommit till vår kännedom att den däcksoppa som valts för FWD och Touring (__PHUB - X Grp Carpet – Yellow__) kommer sluta säljas under det namnet. Den kommer nu bara säljas under namnet __MR33 V5 Carpet Additive 100ml (MR33-104056)__. Det är exakt samma däcksoppa men kommer nu bara distribueras av Tonisport som deras MR33 V5 däcksoppa. 
 Vi kommer därför tillåta båda sopporna under denna säsongen för FWD och Touring klasserna.
-  
 
 __25-08-27__ Uppdaterat med de två först tävlingarna för säsongen 2025/2026 och inbjudan med uppdaterade regler. 
 
@@ -51,7 +52,7 @@ Det kommer också finnas däck att köpa på racen men för att vara säker på 
 * [2025-10-18 Karlstad](races_25-26.md#1---karlstad)
 * [2025-11-08 Bofors](races_25-26.md)
 * [2025-12-??](races_25-26.md)
-* [2025-02-??](races_25-26.md)
+* [2025-02-07 Falun](races_25-26.md)
 * [2025-03-08 (Final) Lidköping](races_25-26.md)
 
 
