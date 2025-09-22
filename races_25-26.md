@@ -26,7 +26,7 @@
 * Inbjudan:
 * Info: [Klubbens Hemsida](https://smkdala.se/)
 * Resultat: Inte kört ännu
-* 
+
 ### 5 (Final) - Lidköping
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1396.3935010677644!2d13.149472354113664!3d58.50441074032116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465b28c72f75efeb%3A0xf491b57d69da7d5e!2sDe%20la%20Gardiegymnasiet!5e1!3m2!1ssv!2sse!4v1758561588404!5m2!1ssv!2sse" width="300" height="225" style="border:5;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
