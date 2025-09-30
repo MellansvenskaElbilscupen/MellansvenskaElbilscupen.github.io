@@ -9,7 +9,7 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
-__25-09-22__ Det har blivit lite förändringar i datumen för tävlingarna efter nyår. Finalen i lidköping flyttar till 15:e fmars för att inte krocka med SSICs final. Falun tävlingen flyttar ptriliminärt till 21:a februari för att MK Eskil ska kunna köra sin tävling den 31:a januari
+__25-09-30__ Det har blivit lite förändringar i datumen för tävlingarna efter nyår. Finalen i lidköping flyttar till 15:e fmars för att inte krocka med SSICs final. Falun tävlingen flyttar ptriliminärt till 21:a februari för att MK Eskil ska kunna köra sin tävling den 31:a januari
 
 __25-09-22__ Tävlingsdatum för MSEC#4 i Falun har nu blivit satt till den 7:e februari 2026.
 
@@ -36,7 +36,7 @@ __24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis komm
 ## Tävlingar
 * [2025-10-18 Karlstad](races_25-26.md#1---karlstad)
 * [2025-11-08 Bofors](races_25-26.md)
-* [2026-01-31 Preliminärt](races_25-26.md)
+* [2026-01-31 MK Eskil Preliminärt](races_25-26.md)
 * [2025-02-21 Falun Preliminärt](races_25-26.md)
 * [2025-03-15 (Final) Lidköping](races_25-26.md)
 
