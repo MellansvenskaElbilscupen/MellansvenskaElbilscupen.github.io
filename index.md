@@ -9,6 +9,8 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__25-09-22__ Det har blivit lite förändringar i datumen för tävlingarna efter nyår. Finalen i lidköping flyttar till 15:e fmars för att inte krocka med SSICs final. Falun tävlingen flyttar ptriliminärt till 21:a februari för att MK Eskil ska kunna köra sin tävling den 31:a januari
+
 __25-09-22__ Tävlingsdatum för MSEC#4 i Falun har nu blivit satt till den 7:e februari 2026.
 
 __25-09-16__ Det har kommit till vår kännedom att den däcksoppa som valts för FWD och Touring (__PHUB - X Grp Carpet – Yellow__) kommer sluta säljas under det namnet. Den kommer nu bara säljas under namnet __MR33 V5 Carpet Additive 100ml (MR33-104056)__. Det är exakt samma däcksoppa men kommer nu bara distribueras av Tonisport som deras MR33 V5 däcksoppa. 
@@ -26,23 +28,6 @@ __24-09-11__ Vi är glada att meddela att Bofors fått halltid 9:e november så 
 
 __24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis kommer bestå av 5 deltävlingar. Karlstad startar säsongen den 12:e oktober och MK Eskil kör sin tävling den 1:a december (söndag). Vi hoppas att Bofors kommer köra en tävling i november men de väntar på att få besked om hallen från kommunen så vi återkommer om det datumet.
 
-__24-09-05:__ Nu finns de preliminära reglerna för  2024/25 säsongen publicerade. Ändringar från förra säsongen är:
-* 1:10 Touring kommer köras med samma regler som SSIC. det blir Justock 13.5 med 22.500 varvtalsbegränsing och Matrix däck _EPC-028_
-* Kvalsystemet ändras till round-by-round där 2 and 3 kval räknas
-* Laddning/Urladdning kommer begränsas till max 12A i och ur. (Detta är en sänkning av vad man max kunnat ladda/ladda ur med från tidigare säsonger) 
-
-__24-09-05:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som subventionerar däcken så att vi fått ett riktigt bra pris.
-
-ULTI XM däcken kommer i påsar med tre par. Priset för en påse fram och en påse bak (3 omgångar) är 550 SEK denna säsong.
-
-* __550 SEK__ - (3 omgångar fram och bak)
-
-För att beställa däcken skickar man ett mail till msec@advanced-electronics.se med sina kontaktuppgifter och hur många påsar man vill ha. Man behöver också ange om man vill ha däcken skickade hem eller få dem på nästa race. Vill man ha däcken skickade tillkommer en fraktavgift som man får reda på i den faktura man kommer få tillbaka på mailen.
-
-Däcken kommer kunna betalas med SWISH eller Bankgiro enligt fakturan. Däcken skickas först när betalning är gjord.
-Det kommer också finnas däck att köpa på racen men för att vara säker på att det inte tar slut bör man göra en beställning innan racet och meddela att däcken hämtas på ”Karlstad” racet som exempel.
-
-
 ## Cupställning
 * [FWD](total_fwd_25-26.md)
 * [Touring Stock 13,5T](total_touring_25-26.md)
@@ -51,9 +36,9 @@ Det kommer också finnas däck att köpa på racen men för att vara säker på 
 ## Tävlingar
 * [2025-10-18 Karlstad](races_25-26.md#1---karlstad)
 * [2025-11-08 Bofors](races_25-26.md)
-* [2025-12-??](races_25-26.md)
-* [2025-02-07 Falun](races_25-26.md)
-* [2025-03-08 (Final) Lidköping](races_25-26.md)
+* [2026-01-31 Preliminärt](races_25-26.md)
+* [2025-02-21 Falun Preliminärt](races_25-26.md)
+* [2025-03-15 (Final) Lidköping](races_25-26.md)
 
 
 ## Inbjudan & Regler
@@ -83,6 +68,23 @@ __2022-2023__
 * [1:12 Track 13,5T](total_track.md)
 
 ## Gamla nyheter
+__24-09-05:__ Nu finns de preliminära reglerna för  2024/25 säsongen publicerade. Ändringar från förra säsongen är:
+* 1:10 Touring kommer köras med samma regler som SSIC. det blir Justock 13.5 med 22.500 varvtalsbegränsing och Matrix däck _EPC-028_
+* Kvalsystemet ändras till round-by-round där 2 and 3 kval räknas
+* Laddning/Urladdning kommer begränsas till max 12A i och ur. (Detta är en sänkning av vad man max kunnat ladda/ladda ur med från tidigare säsonger) 
+
+__24-09-05:__ Nu finns det märkta 1:12 däck för MSEC att beställa. Däcken levereras i samarbete med Advanced Electronics som subventionerar däcken så att vi fått ett riktigt bra pris.
+
+ULTI XM däcken kommer i påsar med tre par. Priset för en påse fram och en påse bak (3 omgångar) är 550 SEK denna säsong.
+
+* __550 SEK__ - (3 omgångar fram och bak)
+
+För att beställa däcken skickar man ett mail till msec@advanced-electronics.se med sina kontaktuppgifter och hur många påsar man vill ha. Man behöver också ange om man vill ha däcken skickade hem eller få dem på nästa race. Vill man ha däcken skickade tillkommer en fraktavgift som man får reda på i den faktura man kommer få tillbaka på mailen.
+
+Däcken kommer kunna betalas med SWISH eller Bankgiro enligt fakturan. Däcken skickas först när betalning är gjord.
+Det kommer också finnas däck att köpa på racen men för att vara säker på att det inte tar slut bör man göra en beställning innan racet och meddela att däcken hämtas på ”Karlstad” racet som exempel.
+
+
 __24-03-25:__ Totalen efter finaltävlingen i Karlskoga är upplagd
 
 __24-01-21:__ Totalen efter Falun är uppdaterad och inbjudan för MSEC#5 i Västerort är upplagd
