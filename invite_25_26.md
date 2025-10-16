@@ -204,6 +204,13 @@ ________________________________________________________________________________
 * Bak: ULTI XM _(ULT12R-6-XM)_ med MSECs märkning på fäjgen (röd etikett med texten ”VOID”).
 Däck kan köpas färdigmärkta men man kan även få däck som man själv köpt uppmärkta på tävlingarna förutsatt att de är i en oöppnad förpackning.
 
+ULTI XM däcken kommer i påsar med tre par. Priset för en påse fram och en påse bak (3 omgångar) är 550 SEK denna säsong.
+
+550 SEK - (3 omgångar fram och bak)
+För att beställa däcken skickar man ett mail till msec@advanced-electronics.se med sina kontaktuppgifter och hur många påsar man vill ha. Man behöver också ange om man vill ha däcken skickade hem eller få dem på nästa race. Vill man ha däcken skickade tillkommer en fraktavgift som man får reda på i den faktura man kommer få tillbaka på mailen.
+
+Däcken kommer kunna betalas med SWISH eller Bankgiro enligt fakturan. Däcken skickas först när betalning är gjord. Det kommer också finnas däck att köpa på racen men för att vara säker på att det inte tar slut bör man göra en beställning innan racet och meddela att däcken hämtas på ”Karlstad” racet som exempel.
+
 **Däcksoppa:**
 * CS Speed Grip (C6460)
 
