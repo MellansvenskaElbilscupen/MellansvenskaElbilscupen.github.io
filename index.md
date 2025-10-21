@@ -36,7 +36,7 @@ __24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis komm
 ## Tävlingar
 * [2025-10-18 Karlstad](races_25-26.md#1---karlstad)
 * [2025-11-08 Bofors](races_25-26.md)
-* [2026-01-31 MK Eskil Preliminärt](races_25-26.md)
+* [2026-01-31 MK Eskil](races_25-26.md)
 * [2025-02-21 Falun](races_25-26.md)
 * [2025-03-15 (Final) Lidköping](races_25-26.md)
 
