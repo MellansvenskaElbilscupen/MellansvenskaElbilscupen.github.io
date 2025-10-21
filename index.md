@@ -29,9 +29,9 @@ __24-09-11__ Vi är glada att meddela att Bofors fått halltid 9:e november så 
 __24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis kommer bestå av 5 deltävlingar. Karlstad startar säsongen den 12:e oktober och MK Eskil kör sin tävling den 1:a december (söndag). Vi hoppas att Bofors kommer köra en tävling i november men de väntar på att få besked om hallen från kommunen så vi återkommer om det datumet.
 
 ## Cupställning
-* [FWD](total_fwd_25-26.md)
-* [Touring Stock 13,5T](total_touring_25-26.md)
-* [1:12 Track 13,5T](total_track_25-26.md)
+* [FWD](total_fwd_25_26.md)
+* [Touring Stock 13,5T](total_touring_25_26.md)
+* [1:12 Track 13,5T](total_track_25_26.md)
 
 ## Tävlingar
 * [2025-10-18 Karlstad](races_25-26.md#1---karlstad)
