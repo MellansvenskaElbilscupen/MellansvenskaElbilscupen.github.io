@@ -82,7 +82,7 @@ Poängberäkning för finalen:
 * Fjärdeplats 52 poäng
 * Femteplats 51 poäng osv.
 
-Totalcupen beräknas med tre bästa delatävlingarna + final.
+Totalcupen beräknas med två bästa delatävlingarna + final.
 
 _För att en deltävling skall räknas med i totalcupen för en viss klass, skall minst fyra förare ha deltagit i tävlingen och kört den klassen._
 
