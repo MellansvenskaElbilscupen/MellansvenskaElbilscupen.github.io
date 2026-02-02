@@ -9,6 +9,8 @@
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
+__26-02-02__ Då det bara blir 5 deltävlingar i årets cup har vi tagit ett beslut att för totalen räknas de två bästa resultaten + finalen.
+
 __25-09-30__ Det har blivit lite förändringar i datumen för tävlingarna efter nyår. Finalen i lidköping flyttar till 15:e fmars för att inte krocka med SSICs final. Falun tävlingen flyttar ptriliminärt till 21:a februari för att MK Eskil ska kunna köra sin tävling den 31:a januari
 
 __25-09-22__ Tävlingsdatum för MSEC#4 i Falun har nu blivit satt till den 7:e februari 2026.
