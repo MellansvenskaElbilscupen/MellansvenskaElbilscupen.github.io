@@ -16,7 +16,7 @@
 | 12      | Ronnie Piispanen    | Västerås MS              |     | 36  | 37  |     |       | 73  |
 | 13      | Dennis Sjölander    | JMK                      | 35  |     | 36  |     |       | 71  |
 | 14      | Lars Haugen         | Oslo modellbilklubb      |     | 43  |     |     |       | 43  |
-| 15      | Walter Andersson    | MK Eskil                 |     |     | 39  |     |       | 39  |
+| 15      | Walter Andersson (J)| MK Eskil                 |     |     | 39  |     |       | 39  |
 | 16      | Tommy Bergfeldt     | MK Eskil                 | 38  |     |     |     |       | 38  |
 | 17      | Göran Persson       | Skövde MK                |     | 38  |     |     |       | 38  |
 | 18      | Mats Haugen (J)     | Oslo modellbilklubb      |     | 35  |     |     |       | 35  |
