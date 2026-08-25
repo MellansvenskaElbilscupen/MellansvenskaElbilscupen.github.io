@@ -2,8 +2,8 @@
 
 **Årets klasser:**
 * 1:12 Track 13,5T
-* Touring GT
-* FWD
+* 1:10 GT
+* 1:10 FWD
 * Supportklass*
 
 _*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara Supertouting, F1, GT12, eller något annat mer exotiskt._
@@ -18,7 +18,7 @@ __25-09-22__ Tävlingsdatum för MSEC#4 i Falun har nu blivit satt till den 7:e 
 
 ## Cupställning
 * [FWD](total_fwd_26_27.md)
-* [Touring GT](total_touring_26_27.md)
+* [GT](total_gt_26_27.md)
 * [1:12 Track 13,5T](total_track_26_27.md)
 
 ## Tävlingar
