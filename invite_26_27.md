@@ -41,11 +41,11 @@ För allas trevnad rekommenderar MSEC, arrangerande klubbar att förbjuda aeroso
 ________________________________________________________________________________
 
 ## Tävlingsform:
-* __Heatträning__: Touring GT 2x5 min, 1:12 2x8 min, FWD 2x6 min. (sista träningsheatet är obligatoriskt för att säkerställa att varvtagningsutrustning fungerar). Seedning skall genomföras innan kvalen. De tre bästa efterföljande varven i något av träningsheaten. Cupdäcken måste användas under den seedade träningen, däcken ska vara märkta av besiktningen innan start av andra träningsheatet.
+* __Heatträning__: 1:10 GT 2x5 min, 1:12 2x8 min, FWD 2x6 min. (sista träningsheatet är obligatoriskt för att säkerställa att varvtagningsutrustning fungerar). Seedning skall genomföras innan kvalen. De tre bästa efterföljande varven i något av träningsheaten. Cupdäcken måste användas under den seedade träningen, däcken ska vara märkta av besiktningen innan start av andra träningsheatet.
 
-* __Kval__: Touring GT 3x5 min, 1:12 3x8 min, FWD 3x6 min. Körs med delayed start eller rullande start, detta tas upp på förarmötet vilket format som ska köras. Round-by-round (2 avd 3 omgångar räknas)
+* __Kval__: 1:10 GT 3x5 min, 1:12 3x8 min, FWD 3x6 min. Körs med delayed start eller rullande start, detta tas upp på förarmötet vilket format som ska köras. Round-by-round (2 avd 3 omgångar räknas)
 
-* __Finaler__: Round-by-round (2 avd 3 omgångar räknas) i kvalen avgör startordning. Finaler Touring GT 3x5 min, 1:12 3x8 min, FWD 3x6 min. Underfinaler körs i 3 upplagor, vid lång dag har arrangör möjlighet att begränsa till 2 underfinaler. De 2 bästa resultaten i finlerna räknas. _Alla finalstarter görs efter nedräkning med ljudsignal_.
+* __Finaler__: Round-by-round (2 avd 3 omgångar räknas) i kvalen avgör startordning. Finaler 1:10 GT 3x5 min, 1:12 3x8 min, FWD 3x6 min. Underfinaler körs i 3 upplagor, vid lång dag har arrangör möjlighet att begränsa till 2 underfinaler. De 2 bästa resultaten i finlerna räknas. _Alla finalstarter görs efter nedräkning med ljudsignal_.
 
 __Tävlingsformat för FWD kan belutas av varje arrangerande klubb. Antingen körs traditionellt tidskval (beskrivet ovan), eller Heatracing enligt _FWD-Sweden.se_ formatet. Vilket format man kommer köra skall framgå av klubbens inbudan till tävlingen.__
 
@@ -93,7 +93,7 @@ ________________________________________________________________________________
 ## Gemensamma Regler
 
 ### Batterier / Motorer
-__Listor för batterier och motorer för alla klaser (FWD och Touting GT har dock sin spec. motor):__
+__Listor för batterier och motorer för alla klaser (FWD och 1:10 GT har dock sin spec. motor):__
 * [EFRA:](https://www.efra.ws/homologation/)
 * [ROAR:](https://www.roarracing.com/approvals.php)
 * [BRCA:](https://brca.org/rules-documents/18-electric-board)
@@ -104,7 +104,7 @@ Endast batterier som godkänts av antingen __EFRA__, __BRCA__ eller __ROAR__ få
 ### Däcksoppa
 Följande däcksoppor är godkända i MSEC
 
-FWD och 1:10 Touring GT:
+FWD och 1:10 GT:
 * MR33 V5 Carpet Additive 100ml (MR33-104056)
 * PHUB - X Grp Carpet - Yellow (PH56) (Den här soppan kommer sluta säljas och har ersatts av MR33 V5 som är exakt samma)
 
@@ -153,7 +153,7 @@ Förare med D licens och U-intyg får använda bilar/elektronik som inte ger tek
 
 ________________________________________________________________________________
 
-## Touring GT:
+## 1:10 GT:
 **Drivlina**
 * Motor: Hobbywing Justock 3650 G2.1 13.5T Sensor (Fast Timing), art nr: 408010
 * Fartreglage: Hobbywing Justock G3 art nr: 112003 (Utgått 2023), samt Hobbywing XeRun XR10 Justock G3S 60A 2S art nr: 111205.
@@ -180,7 +180,7 @@ ________________________________________________________________________________
 * __Markfrigång:__ 5 mm innan start av heat mätt på plan hård yta
 
 **Karosser:**
-* Endast karosser enligt gällande separat lista är godkända. (För närvarande GT KAROSSLISTA 2025-2)
+* Endast karosser enligt gällande separat lista är godkända. [Karosslista](https://www.sbf.se/download/18.542f90c919d722553a51b3bc/1775802136313/Karosslista%2013,5%20GT%202026_1.pdf)
 * Kaross skall ha tydligt definierade rutor, grill, luftintag och lampor.
 * Karossen får ej klippas högre upp än av tillverkaren markerade sidolinjer
 * Vinge: Maxbredd 190x40x20mm (BxLxH). Vinge får sticka ut maximalt 10mm bakom karossens bakersta del och skall vara monterad enligt tillverkarens intention. Dvs, en normal touring vinge får monteras.
