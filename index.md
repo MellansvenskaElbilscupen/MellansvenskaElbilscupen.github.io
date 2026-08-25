@@ -18,8 +18,8 @@ __25-09-22__ Tävlingsdatum för MSEC#4 i Falun har nu blivit satt till den 7:e 
 
 ## Cupställning
 * [FWD](total_fwd_26_27.md)
-* [GT](total_gt_26_27.md)
-* [1:12 Track 13,5T](total_track_26_27.md)
+* [1:10 GT](total_gt_26_27.md)
+* [1:12 Track](total_track_26_27.md)
 
 ## Tävlingar
 * [2026-10-10 Karlstad](races_26-27.md#1---karlstad)
