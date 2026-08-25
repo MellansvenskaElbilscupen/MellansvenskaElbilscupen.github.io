@@ -1,12 +1,12 @@
-# Mellansvenska Elbilscupen 2025 - 2026
+# Mellansvenska Elbilscupen 2026 - 2027
 
 **Årets klasser:**
 * 1:12 Track 13,5T
-* Touring Stock 13,5T
+* Touring GT
 * FWD
 * Supportklass*
 
-_*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara F1, GT12, eller något annat mer exotiskt._
+_*För att främja lokala klasser uppmanar vi klubbarna att bjuda in till en supportklass om man tror att det finns förarunderlag. Det kan vara en klass som är lokalt populär eller om det finns ett allmänt intresse. Regler och tävlingsform skall framgå i klubbens inbjudan till sin deltävling. Exempel på klasser kan vara Supertouting, F1, GT12, eller något annat mer exotiskt._
 
 ## Senaste nytt
 __26-02-02__ Då det bara blir 5 deltävlingar i årets cup har vi tagit ett beslut att för totalen räknas de två bästa resultaten + finalen.
@@ -15,37 +15,23 @@ __25-09-30__ Det har blivit lite förändringar i datumen för tävlingarna efte
 
 __25-09-22__ Tävlingsdatum för MSEC#4 i Falun har nu blivit satt till den 7:e februari 2026.
 
-__25-09-16__ Det har kommit till vår kännedom att den däcksoppa som valts för FWD och Touring (__PHUB - X Grp Carpet – Yellow__) kommer sluta säljas under det namnet. Den kommer nu bara säljas under namnet __MR33 V5 Carpet Additive 100ml (MR33-104056)__. Det är exakt samma däcksoppa men kommer nu bara distribueras av Tonisport som deras MR33 V5 däcksoppa. 
-Vi kommer därför tillåta båda sopporna under denna säsongen för FWD och Touring klasserna.
-
-__25-08-27__ Uppdaterat med de två först tävlingarna för säsongen 2025/2026 och inbjudan med uppdaterade regler. 
-
-__25-01-15__ Vi har fått klart med final tävlingen i MSEC och den kommer gå i Bofors den 8:e mars.
-
-__24-11-29__ MSEC#4 kommer gå i Lidköping söndagen den 2:a februari. Det kommer finnas möjlighet för träning på banan den 1:a februari. Mer info kommer från klubben med inbjudan.
-
-__24-10-11__ Falun är klar som arrangör och deras tvävling körs den 15:e februari 2025.
-
-__24-09-11__ Vi är glada att meddela att Bofors fått halltid 9:e november så nu är höstens 3 tävligsdatum klara.
-
-__24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis kommer bestå av 5 deltävlingar. Karlstad startar säsongen den 12:e oktober och MK Eskil kör sin tävling den 1:a december (söndag). Vi hoppas att Bofors kommer köra en tävling i november men de väntar på att få besked om hallen från kommunen så vi återkommer om det datumet.
 
 ## Cupställning
-* [FWD](total_fwd_25_26.md)
-* [Touring Stock 13,5T](total_touring_25_26.md)
-* [1:12 Track 13,5T](total_track_25_26.md)
+* [FWD](total_fwd_26_27.md)
+* [Touring GT](total_touring_26_27.md)
+* [1:12 Track 13,5T](total_track_26_27.md)
 
 ## Tävlingar
-* [2025-10-18 Karlstad](races_25-26.md#1---karlstad)
-* [2025-11-08 Bofors](races_25-26.md)
-* [2026-01-31 MK Eskil](races_25-26.md)
-* [2025-02-21 Falun](races_25-26.md)
-* [2025-03-15 (Final) Lidköping](races_25-26.md)
+* [2026-10-10 Karlstad](races_26-27.md#1---karlstad)
+* [2026-11-21 Bofors](races_26-27.md)
+* [2026-12-12 MK Eskil](races_26-27.md)
+* [2027-xx-xx Lidköping](races_26-27.md)
+* [2025-03-13 (Final) Falun](races_26-27.md)
 
 
 ## Inbjudan & Regler
 Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br>
-[Inbjudan och regler 2025-2026](invite_25_26.md)
+[Inbjudan och regler 2026-2027](invite_26_27.md)
 
 ## Om Cupen
 [Länk till mer information om cupen](about.md)
@@ -54,6 +40,11 @@ Allmän information om årets upplaga med regler och inbjudan hittar ni här:<br
 [Tech Sheets](tech_sheets.md)
 
 ## Tidigare års cupresultat
+__2025-2026__
+* [FWD](total_fwd_25_26.md)
+* [Touring Stock 13,5T](total_touring_25_26.md)
+* [1:12 Track 13,5T](total_track_25_26.md)
+
 __2024-2025__
 * [FWD](total_fwd_24-25.md)
 * [Touring Stock 13,5T](total_touring_24-25.md)
@@ -70,6 +61,21 @@ __2022-2023__
 * [1:12 Track 13,5T](total_track.md)
 
 ## Gamla nyheter
+__25-09-16__ Det har kommit till vår kännedom att den däcksoppa som valts för FWD och Touring (__PHUB - X Grp Carpet – Yellow__) kommer sluta säljas under det namnet. Den kommer nu bara säljas under namnet __MR33 V5 Carpet Additive 100ml (MR33-104056)__. Det är exakt samma däcksoppa men kommer nu bara distribueras av Tonisport som deras MR33 V5 däcksoppa. 
+Vi kommer därför tillåta båda sopporna under denna säsongen för FWD och Touring klasserna.
+
+__25-08-27__ Uppdaterat med de två först tävlingarna för säsongen 2025/2026 och inbjudan med uppdaterade regler. 
+
+__25-01-15__ Vi har fått klart med final tävlingen i MSEC och den kommer gå i Bofors den 8:e mars.
+
+__24-11-29__ MSEC#4 kommer gå i Lidköping söndagen den 2:a februari. Det kommer finnas möjlighet för träning på banan den 1:a februari. Mer info kommer från klubben med inbjudan.
+
+__24-10-11__ Falun är klar som arrangör och deras tvävling körs den 15:e februari 2025.
+
+__24-09-11__ Vi är glada att meddela att Bofors fått halltid 9:e november så nu är höstens 3 tävligsdatum klara.
+
+__24-09-05:__ Vi har två datum satta för den nya säsonegn som troligtvis kommer bestå av 5 deltävlingar. Karlstad startar säsongen den 12:e oktober och MK Eskil kör sin tävling den 1:a december (söndag). Vi hoppas att Bofors kommer köra en tävling i november men de väntar på att få besked om hallen från kommunen så vi återkommer om det datumet.
+
 __24-09-05:__ Nu finns de preliminära reglerna för  2024/25 säsongen publicerade. Ändringar från förra säsongen är:
 * 1:10 Touring kommer köras med samma regler som SSIC. det blir Justock 13.5 med 22.500 varvtalsbegränsing och Matrix däck _EPC-028_
 * Kvalsystemet ändras till round-by-round där 2 and 3 kval räknas
