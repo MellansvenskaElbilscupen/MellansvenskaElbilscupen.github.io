@@ -26,7 +26,7 @@ __25-09-22__ Tävlingsdatum för MSEC#4 i Falun har nu blivit satt till den 7:e 
 * [2026-11-21 Bofors](races_26-27.md)
 * [2026-12-12 MK Eskil](races_26-27.md)
 * [2027-xx-xx Lidköping](races_26-27.md)
-* [2025-03-13 (Final) Falun](races_26-27.md)
+* [2027-03-13 (Final) Falun](races_26-27.md)
 
 
 ## Inbjudan & Regler
